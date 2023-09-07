@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tools &amp; Data | Center of Complex Interventions</title>
+	<atom:link href="https://centerofci.org/topic/tools-data/feed/" rel="self" type="application/rss+xml" />
+	<link>https://centerofci.org/</link>
+	<description>Helping Communities Translate Science Into Action</description>
+	<lastBuildDate>Wed, 28 Jun 2023 11:21:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
+	<title>Tools &amp; Data | Center of Complex Interventions</title>
+	<link>https://centerofci.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Chelsea Policy Simulator</title>
+		<link>https://centerofci.org/chelsea-policy-simulator/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 22:15:02 +0000</pubDate>
+				<category><![CDATA[Public Health]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=3057</guid>
+
+					<description><![CDATA[Policy plays a central role in complex systems. Even seemingly routine policy decisions ripple through a community’s healthcare, transportation, and environmental networks &#8211; and directly affect much more. Tracking the impact that different policies have can be an elusive task. Since 2020, our team has been experimenting with an exciting simulator that can measure and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Policy plays a central role in complex systems. Even seemingly routine policy decisions ripple through a community’s healthcare, transportation, and environmental networks &#8211; and directly affect much more. Tracking the impact that different policies have can be an elusive task. Since 2020, our team has been experimenting with an exciting simulator that can measure and evaluate the link between high-level policy decisions and real-world outcomes in the realm of COVID-19.</p>
+
+
+
+<ul>
+<li>Using a policy simulator, our team compared COVID-19 outcomes in communities with and without mask mandates, and found that mask mandates led to better outcomes in terms of case numbers, hospitalizations, and deaths.</li>
+
+
+
+<li>We are currently using our simulator to better understand COVID-19 outcome discrepancies across racial, gender, income, and age demographic groups.</li>
+
+
+
+<li>We are also exploring how these discrepancies relate to mobility patterns and policies, including limited air travel and work-from-home mandates for non-essential workers.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Potential Use Cases</h3>
+
+
+
+<ul>
+<li>Comparing the outcomes of policy interventions across members of different demographic groups</li>
+
+
+
+<li>Teaching decision-makers and the general public about the effectiveness of different policy measures, with the goal that these learnings can be applied to future infectious disease outbreaks</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Get Involved</h3>
+
+
+
+<ul>
+<li>If you’re curious to see how different policy decisions surrounding infectious disease affect your town, state, or community, please reach out to <a href="mailto:daniel@centerofci.org" data-type="mailto" data-id="mailto:daniel@centerofci.org">Daniel</a>.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Climate Map &#038; Online Tools</title>
+		<link>https://centerofci.org/climate-map-online-tools/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 21:47:59 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=3051</guid>
+
+					<description><![CDATA[The Climate Map started as an internal team discovery tool to shape our own understanding of the climate change industry and where strategic opportunities exist to participate in or leverage complex interventions. Entries in the climate map are visualized in a network graph, off a relational database, showing the connections and interdependencies for climate projects [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The Climate Map started as an internal team discovery tool to shape our own understanding of the climate change industry and where strategic opportunities exist to participate in or leverage complex interventions. Entries in the climate map are visualized in a network graph, off a relational database, showing the connections and interdependencies for climate projects in three areas: </p>
+
+
+
+<figure class="wp-block-image alignright size-large is-resized"><img decoding="async" fetchpriority="high" src="https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1024x512.png" alt="" class="wp-image-293" width="468" height="235" srcset="https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1024x512.png 1024w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-300x150.png 300w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-768x384.png 768w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1536x768.png 1536w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7.png 1745w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption class="wp-element-caption"><em>The network view of the tool shows how ongoing climate research is connected by the actors and funders involved.</em></figcaption></figure>
+
+
+
+<ol>
+<li>Mitigation &#8211; climate interventions that reduce carbon (primarily) and other greenhouse gas emissions, either through reduction of production of emissions or through innovative techniques for emissions capture.</li>
+
+
+
+<li>Adaptation &#8211; climate interventions that take an active role in improving robustness and resiliency of habitats and occupants (humans, animals, plant life, etc.) in the face of climate changes (e.g. sea-level rise) and extreme weather.</li>
+
+
+
+<li>Geoengineering &#8211;  human-engineered interventions, typically at a global or large ecosystem level (e.g. solar radiation management via introduction of atmospheric aerosols), to control or influence the Earth-climate system with the goal of reducing negative climate change impacts. </li>
+</ol>
+
+
+
+<p>The map shows the actors and organizations that are leading climate change projects in these three areas, how the projects are funded, and how projects and actors relate to one another.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" src="https://centerofci.org/cms/wp-content/uploads/2021/07/2021-06-02-9-1024x632.png" alt=""/><figcaption class="wp-element-caption"><em>The global view of the interventions map demonstrates that climate research efforts are based all over the world.</em></figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Data Curator</title>
+		<link>https://centerofci.org/datacurator/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 11:53:35 +0000</pubDate>
+				<category><![CDATA[Tools & Data]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=2564</guid>
+
+					<description><![CDATA[What is DataCurator? DataCurator is a tool to map and manage complex problems.&#160; Data is messy, and the more types of data you need the messier it gets. DataCurator helps you to understand complex problems by breaking down large, disparate, and overlapping sets of information into modular component parts. Navigating a complex system requires gathering [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is DataCurator?</h2>
+
+
+
+<p><a href="https://datacurator.org/">DataCurator</a> is a tool to map and manage complex problems.&nbsp;</p>
+
+
+
+<p>Data is messy, and the more types of data you need the messier it gets. DataCurator helps you to understand complex problems by breaking down large, disparate, and overlapping sets of information into modular component parts.</p>
+
+
+
+<p>Navigating a complex system requires gathering and interpreting a variety of data from a diverse range of sources: quantitative and qualitative data from different kinds of surveys and studies, research and insights from numerous experts in different fields, sets of goals and priorities from different stakeholders.</p>
+
+
+
+<p>DataCurator allows you to build a usable, shareable model of a complex system to help you organize successful interventions.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">How does it work?</h2>
+
+
+
+<p>DataCurator visualizes connections between different types of data. You can put all your different types of information into one place, then isolate certain components and identify relationships and patterns across the full range of data.&nbsp;</p>
+
+
+
+<p>There are two dimensions of time built into the tool: one that lets you track your time within the tool itself, allowing you to check what you did when; and one that lets you plan interventions at simulated timescales.</p>
+
+
+
+<p>DataCurator allows you to plan for the uncertainty built into potential interventions. Uncertainty is inherent to complex systems: numbers may be inaccurate, people may behave differently than expected, circumstances can change rapidly. Planning a successful intervention requires accounting for various potential outcomes. With DataCurator you can enter a potential event in the simulated timescale of your planned intervention, then assign uncertainty to specific values.&nbsp;</p>
+
+
+
+<p>For example, you might say that if a positive test rate is at or below 3% it&#8217;s not a problem, but if it gets above that level different scenarios emerge.</p>
+
+
+
+<p>DataCurator aims to facilitate and encourage more precise and systematic recording of all the key elements we use to create models: the definitions, statuses, processes, assumptions, and imagined potential outcomes, based on all the information you have.</p>
+
+
+
+<h2 class="wp-block-heading">Who is it for?</h2>
+
+
+
+<p>DataCurator is for anyone trying to understand a complex system and intervene in it, who has a lot of information to understand and interpret.&nbsp;</p>
+
+
+
+<p>Use it for simple note-taking and organizing, or model and plan an entire intervention. Choose key indicators to simplify the map or use the goal-priority view to keep your goals on track.</p>
+
+
+
+<h2 class="wp-block-heading">How do I get started?</h2>
+
+
+
+<p>Go to <a href="https://datacurator.org/">datacurator.org</a> to get started for free or <a href="https://www.youtube.com/playlist?list=PLdbIJ7BPHJ_lHTDvBE8PhpLccPNq4Mu7E">watch the video tutorial series</a></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Who built it?</h2>
+
+
+
+<p>DataCurator is a <a href="https://centerofci.org/projects/">CCI project</a> supported by <a href="https://centerofci.org/about/">our generous funders</a>.</p>
+
+
+
+<h2 class="wp-block-heading">I have an idea, question or I have found a bug!</h2>
+
+
+
+<p>Please post any <a href="https://github.com/centerofci/DataCurator/discussions/categories/q-a">requests for support or questions here</a> or email us at webadmin at centerofci dot org .  For any bugs please <a href="https://github.com/centerofci/DataCurator/issues">post here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mathesar</title>
+		<link>https://centerofci.org/mathesar/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 12:56:49 +0000</pubDate>
+				<category><![CDATA[Tools & Data]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=project&#038;p=2351</guid>
+
+					<description><![CDATA[Effective interventions to complex problems are often buried within data. Mathesar simplifies the process of collaboratively maintaining complex data sets and gleaning useful information from them. Potential use cases Mathesar can be used in any workflow that involves data, so there are thousands of possible use cases. Check out a live demo of Mathesar here. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Effective interventions to complex problems are often buried within data. Mathesar simplifies the process of collaboratively maintaining complex data sets and gleaning useful information from them.</p>
+
+
+
+<ul>
+<li>Unlike a spreadsheet, Mathesar keeps your data structured and clean. It embraces relational data, allowing you to accurately model complex structures through simple relationships.</li>
+
+
+
+<li>Unlike a database, Mathesar&#8217;s intuitive interface lets you get started editing your data quickly and continues to help you evolve the structure of your data as your needs change.</li>
+
+
+
+<li>Unlike similar spreadsheet-database hybrid tools, Mathesar stores all its data in a PostgreSQL database with exactly the same structure shown to the user, including primary keys, foreign keys, types, and constraints. This approach keeps your data maximally interoperable, and even makes it possible to work with the same data in other tools outside Mathesar.&nbsp; You can also host your own Mathesar installation too, giving you ownership, privacy, and control of your data.</li>
+</ul>
+
+
+
+<p><strong>Potential use cases</strong></p>
+
+
+
+<p>Mathesar can be used in any workflow that involves data, so there are thousands of possible use cases.</p>
+
+
+
+<ul>
+<li>Business processes – inventory management, project management, CRM</li>
+
+
+
+<li>Prototyping new software projects</li>
+
+
+
+<li>Publishing data sets and allowing users to explore them freely</li>
+</ul>
+
+
+
+<p><strong><a href="https://demo.mathesar.org/">Check out a live demo of Mathesar here</a>.</strong></p>
+
+
+
+<h2 class="wp-block-heading">GET INVOLVED</h2>
+
+
+
+<p><strong>If you’re interested in using Mathesar or collaborating with us, please email <a href="mailto:hello@mathesar.org" data-type="mailto" data-id="mailto:hello@mathesar.org">hello@mathesar.org</a> or </strong><a href="https://github.com/centerofci/mathesar/"><strong>star us on GitHub</strong></a><strong>!</strong></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

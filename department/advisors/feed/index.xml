@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Advisors | Center of Complex Interventions</title>
+	<atom:link href="https://centerofci.org/department/advisors/feed/" rel="self" type="application/rss+xml" />
+	<link>https://centerofci.org/</link>
+	<description>Helping Communities Translate Science Into Action</description>
+	<lastBuildDate>Wed, 12 Oct 2022 11:37:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
+	<title>Advisors | Center of Complex Interventions</title>
+	<link>https://centerofci.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Isha Datar</title>
+		<link>https://centerofci.org/team/isha-datar/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 11:33:30 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2589</guid>
+
+					<description><![CDATA[Isha is executive director of New Harvest, a nonprofit research institute that funds open, public cultured meat research. She has been pioneering cellular agriculture since 2009, driven by a passion to see transformative technology create a better world. In 2010, Isha published a review paper in the scientific journal Innovative Food Science and Emerging Technologies, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Isha is executive director of New Harvest, a nonprofit research institute that funds open, public cultured meat research. She has been pioneering cellular agriculture since 2009, driven by a passion to see transformative technology create a better world. In 2010, Isha published a review paper in the scientific journal Innovative Food Science and Emerging Technologies, among the first handful of papers to ever discuss cultured meat in academic literature. After co-founding Muufri (now Perfect Day Foods) and Clara Foods in 2014, she transferred her founding equity to New Harvest and used it to establish an endowment for cell ag research. In 2015, Isha coined the term &#8220;cellular agriculture&#8221; — officially creating a category for agriculture products produced from cell cultures rather than whole plants or animals. Isha is a Shuttleworth Foundation Fellow and Director’s Fellow at the MIT Media Lab. Isha holds a BSc. in cell and molecular biology from the University of Alberta and a master&#8217;s in biotechnology from the University of Toronto.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Joi Ito</title>
+		<link>https://centerofci.org/team/joi-ito/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 11:37:53 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2592</guid>
+
+					<description><![CDATA[Joi Ito is an advisor to the CCI team and helps with several ongoing research projects. He is currently a partner at the venture capital firm, Neoteny, a guest researcher at Keio University&#8217;s Cyber Civilization Research Center and founder and board member of Digital Garage in Tokyo. He has had numerous roles in the past [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Joi Ito is an advisor to the CCI team and helps with several ongoing research projects.</p>
+
+
+
+<p>He is currently a partner at the venture capital firm, Neoteny, a guest researcher at Keio University&#8217;s Cyber Civilization Research Center and founder and board member of Digital Garage in Tokyo.</p>
+
+
+
+<p>He has had numerous roles in the past including Director of the MIT Media Lab, a Professor of Law from Practice at The Harvard Law School, Chair of PureTech Health, CEO of Creative Commons and board member of The New York Times Company, Sony Corporation, The MacArthur Foundation, The Knight Foundation, as well as The Mozilla Foundation, The Internet Corporation for Names and Numbers (ICANN) and the Open Source Initiative.</p>
+
+
+
+<p>He earned his Ph.D. from the School of Media and Governance at Keio University and is co-author with Jeff Howe of Whiplash: How to Survive Our Faster Future (Grand Central Publishing, December 2016).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

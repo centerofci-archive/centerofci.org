@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Climate | Center of Complex Interventions</title>
+	<atom:link href="https://centerofci.org/topic/climate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://centerofci.org/</link>
+	<description>Helping Communities Translate Science Into Action</description>
+	<lastBuildDate>Wed, 28 Jun 2023 11:21:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
+	<title>Climate | Center of Complex Interventions</title>
+	<link>https://centerofci.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sustainable Homes</title>
+		<link>https://centerofci.org/sustainable-homes/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 02 Nov 2022 10:32:09 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=projects#038;p=3658</guid>
+
+					<description><![CDATA[The sustainable homes project explores the complex problem of sustainable housing.&#160; Financially and environmentally unsustainable homes: Primary Goals: Improving Democratic Decision Making The project aims to explore how simulations and their supporting tools might improve our societies’ democratic sense and decision making of complex problems.&#160; We hypothesize that engaging and realistic simulations can enable experts, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The sustainable homes project explores the complex problem of sustainable housing.&nbsp; Financially and environmentally unsustainable homes:</p>
+
+
+
+<ul>
+<li>are damaging to human health; from damp and mold, to excessive cold and heat related deaths, to the anxiety of covering energy and repair bills</li>
+
+
+
+<li>present a public health challenge; since March 2022 this has taken on elements of a public health crisis as the cost of both heating and food has climbed significantly impacting the poorest and most vulnerable in our societies</li>
+
+
+
+<li>have an environmental footprint that is a significant proportion of global GHG (greenhouse gas) emissions, as does the manufacture of new homes and retrofitting of old homes</li>
+</ul>
+
+
+
+<p><strong>Primary Goals: Improving Democratic Decision Making</strong></p>
+
+
+
+<p>The project aims to explore how simulations and their supporting tools might improve our societies’ democratic sense and decision making of complex problems.&nbsp; We hypothesize that engaging and realistic simulations can enable experts, and journalists to better communicate with citizens and policy makers.&nbsp; This democratization of expertise via simulations empowers citizens to better understand the invisible forces that determine how they can flourish in our societies within nature.&nbsp; Specifically:</p>
+
+
+
+<ul>
+<li>how such tools might act as mediums through which experts can more easily build coherence and consensus amongst themselves</li>
+
+
+
+<li>the trust of citizens in this sense making process</li>
+
+
+
+<li>the participation of citizens in understanding and solving complex problems</li>
+
+
+
+<li>helping our citizens better understand the complex problems we collectively face, and make better decisions about these complex problems including deciding what to buy or not to buy, who to vote for, and why</li>
+
+
+
+<li>complex problems also have unique qualities of being significantly dynamic and uncertain and the visualizations also aim to guide the general public and policy makers into understanding these qualities at intellectual and intuitive levels</li>
+</ul>
+
+
+
+<p><strong>Secondary Goals: Improve Homes and Housing Policy</strong></p>
+
+
+
+<p>Simulations that facilitate a better understanding of what sustainable homes could be and making better decisions about them, should result in improving homes and thus the project also aims to:</p>
+
+
+
+<ul>
+<li>improve the health of occupants living in their homes via changes to their homes physical construction, or use</li>
+
+
+
+<li>improve the financial and environmental sustainability of housing</li>
+</ul>
+
+
+
+<p><strong>Approach</strong></p>
+
+
+
+<p>The sustainable homes project uses software tools CCI has built previously (<a href="https://centerofci.org/datacurator/" data-type="projects" data-id="2564">DataCurator</a>, Anot8, <a href="https://centerofci.org/mathesar/" data-type="projects" data-id="2351">Mathesar</a>) to support a custom interactive visualization / simulation together with the social and philosophical approaches CCI takes for engaging with the communities we aim to serve.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Climate Map &#038; Online Tools</title>
+		<link>https://centerofci.org/climate-map-online-tools/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 21:47:59 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=3051</guid>
+
+					<description><![CDATA[The Climate Map started as an internal team discovery tool to shape our own understanding of the climate change industry and where strategic opportunities exist to participate in or leverage complex interventions. Entries in the climate map are visualized in a network graph, off a relational database, showing the connections and interdependencies for climate projects [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The Climate Map started as an internal team discovery tool to shape our own understanding of the climate change industry and where strategic opportunities exist to participate in or leverage complex interventions. Entries in the climate map are visualized in a network graph, off a relational database, showing the connections and interdependencies for climate projects in three areas: </p>
+
+
+
+<figure class="wp-block-image alignright size-large is-resized"><img decoding="async" fetchpriority="high" src="https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1024x512.png" alt="" class="wp-image-293" width="468" height="235" srcset="https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1024x512.png 1024w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-300x150.png 300w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-768x384.png 768w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1536x768.png 1536w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7.png 1745w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption class="wp-element-caption"><em>The network view of the tool shows how ongoing climate research is connected by the actors and funders involved.</em></figcaption></figure>
+
+
+
+<ol>
+<li>Mitigation &#8211; climate interventions that reduce carbon (primarily) and other greenhouse gas emissions, either through reduction of production of emissions or through innovative techniques for emissions capture.</li>
+
+
+
+<li>Adaptation &#8211; climate interventions that take an active role in improving robustness and resiliency of habitats and occupants (humans, animals, plant life, etc.) in the face of climate changes (e.g. sea-level rise) and extreme weather.</li>
+
+
+
+<li>Geoengineering &#8211;  human-engineered interventions, typically at a global or large ecosystem level (e.g. solar radiation management via introduction of atmospheric aerosols), to control or influence the Earth-climate system with the goal of reducing negative climate change impacts. </li>
+</ol>
+
+
+
+<p>The map shows the actors and organizations that are leading climate change projects in these three areas, how the projects are funded, and how projects and actors relate to one another.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" src="https://centerofci.org/cms/wp-content/uploads/2021/07/2021-06-02-9-1024x632.png" alt=""/><figcaption class="wp-element-caption"><em>The global view of the interventions map demonstrates that climate research efforts are based all over the world.</em></figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

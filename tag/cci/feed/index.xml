@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CCI | Center of Complex Interventions</title>
+	<atom:link href="https://centerofci.org/tag/cci/feed/" rel="self" type="application/rss+xml" />
+	<link>https://centerofci.org/</link>
+	<description>Helping Communities Translate Science Into Action</description>
+	<lastBuildDate>Thu, 30 Mar 2023 11:52:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
+	<title>CCI | Center of Complex Interventions</title>
+	<link>https://centerofci.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CCI IMPACT REPORT 2022</title>
+		<link>https://centerofci.org/cci-impact-report-2022/</link>
+					<comments>https://centerofci.org/cci-impact-report-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Thu, 30 Mar 2023 11:34:55 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[CCI]]></category>
+		<guid isPermaLink="false">https://centerofci.org/?p=6374</guid>
+
+					<description><![CDATA[CCI is excited to release its Impact Report for 2022. To name just a few highlights, in the past year, we started eight new collaborations, administered over 3,900 COVID tests in Chelsea, MA, and just launched an open-source database tool with over 1500 stars on GitHub. Read the report to learn more about our health [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><a href="https://centerofci.org/wp-content/uploads/2023/03/2022-Impact-Report.pdf" target="_blank" rel="noreferrer noopener"><img decoding="async" fetchpriority="high" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-719x1024.png?lossy=1&strip=1&webp=1" alt="" class="wp-image-6379" width="360" height="512" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-719x1024.png?lossy=1&amp;strip=1&amp;webp=1 719w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-211x300.png?lossy=1&amp;strip=1&amp;webp=1 211w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-768x1094.png?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm.png?lossy=1&amp;strip=1&amp;webp=1 866w" sizes="(max-width: 360px) 100vw, 360px" /></a></figure>
+
+
+
+<p>CCI is excited to release its Impact Report for 2022. To name just a few highlights, in the past year, we started eight new collaborations, administered over 3,900 COVID tests in Chelsea, MA, and just launched an open-source database tool with over 1500 stars on GitHub.</p>
+
+
+
+<p>Read the report to learn more about our health and climate research and our recent publications about the team&#8217;s COVID work in Chelsea.</p>
+
+
+
+<p>Thank you to our community, funders, Board, and staff for a fantastic year! We&#8217;d love to hear from you if you are interested in getting involved or would like to learn more about our work!</p>
+
+
+
+<p><em>Samantha Bates, Executive Director</em></p>
+
+
+
+<div class="wp-block-file"><a id="wp-block-file--media-da204b2b-db56-437b-8969-a7f32a8f6401" href="https://centerofci.org/wp-content/uploads/2023/03/2022-Impact-Report.pdf" target="_blank" rel="noreferrer noopener">2022 Impact Report</a><a href="https://centerofci.org/wp-content/uploads/2023/03/2022-Impact-Report.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-da204b2b-db56-437b-8969-a7f32a8f6401">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://centerofci.org/cci-impact-report-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Complex Interventions</title>
+		<link>https://centerofci.org/publications/complex-interventions/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 01:12:52 +0000</pubDate>
+				<category><![CDATA[CCI]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3099</guid>
+
+					<description><![CDATA[Our world is inherently complex. Whether it is biology, physics, or social science, it is impossible to draw definitive and complete descriptions of even seemingly simple systems. Be it a single-celled organism, a collection of gas molecules, or a small group of people, incontrovertibly causal pictures often elude us. Science frequently attempts to learn the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Our world is inherently complex. Whether it is biology, physics, or social science, it is impossible to draw definitive and complete descriptions of even seemingly simple systems. Be it a single-celled organism, a collection of gas molecules, or a small group of people, incontrovertibly causal pictures often elude us. Science frequently attempts to learn the behaviors and properties of systems that do not entirely depend on a full understanding of all of the details. The fields of complexity theory and complex systems science are not new. They attempt to understand the relationships and interactions between various components of systems, with the awareness that systems are adaptive and dynamically changing, whose emergent properties and behaviors are unpredictable, multi-dimensional, and non-linear. The study of complex systems involves an amalgamation of concepts, theories and methods spanning multiple disciplines where emergent behaviors of the system as a whole can often be very different from those of its parts. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CCI Impact Report 2020-2021</title>
+		<link>https://centerofci.org/cci-impact-report-2020-2021/</link>
+					<comments>https://centerofci.org/cci-impact-report-2020-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2022 23:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[CCI]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?p=3068</guid>
+
+					<description><![CDATA[Happy New Year!&#160; To kick off 2022, CCI has released an Impact Report to capture all that we’ve accomplished since we started the organization in the spring of 2020. Some of the biggest highlights from the past year and a half include a peer-reviewed paper in PLOS about the importance of wearing masks to reduce [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Happy New Year!&nbsp;</p>
+
+
+
+<p>To kick off 2022, CCI has released an Impact Report to capture all that we’ve accomplished since we started the organization in the spring of 2020. Some of the biggest highlights from the past year and a half include a peer-reviewed paper in PLOS about the importance of wearing masks to reduce COVID infection risk; The Chelsea Project, which just launched a COVID rapid testing study to test seniors and people with disabilities in Chelsea and was prominently <a href="https://www.wbur.org/onpoint/2022/01/13/why-a-cheap-rapid-covid-test-never-made-it-to-consumers" target="_blank" rel="noreferrer noopener">featured on NPR</a>, and an open-source tool that visualizes ongoing work in climate change research that will soon be publicly available. We are extremely proud of our researchers, projects, and community.&nbsp;</p>
+
+
+
+<p>If you are interested in getting involved or would like to learn more about our work, we’d love to hear from you!</p>
+
+
+
+<p></p>
+
+
+
+<p><em>Samantha Bates, Executive Director</em></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-file"><a id="wp-block-file--media-f42f6606-a105-4355-8c8b-98684e62d90a" href="https://centerofci.org/wp-content/uploads/2022/01/CCI-Impact-Report-20_21.pdf" target="_blank" rel="noreferrer noopener">Read the report here</a><a href="https://centerofci.org/wp-content/uploads/2022/01/CCI-Impact-Report-20_21.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-f42f6606-a105-4355-8c8b-98684e62d90a">Download</a></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://centerofci.org/cci-impact-report-2020-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

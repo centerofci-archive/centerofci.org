@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Public Health | Center of Complex Interventions</title>
+	<atom:link href="https://centerofci.org/topic/public-health/feed/" rel="self" type="application/rss+xml" />
+	<link>https://centerofci.org/</link>
+	<description>Helping Communities Translate Science Into Action</description>
+	<lastBuildDate>Tue, 04 Apr 2023 10:28:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
+	<title>Public Health | Center of Complex Interventions</title>
+	<link>https://centerofci.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>COVID-19 Mask Mandates</title>
+		<link>https://centerofci.org/covid-19-mask-mandates/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 22:36:42 +0000</pubDate>
+				<category><![CDATA[Public Health]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=3064</guid>
+
+					<description><![CDATA[We extended previous studies on the impact of masks on COVID-19 outcomes by investigating an unprecedented breadth and depth of specifications, and our results demonstrate the policy implications for reinforcing the need to maintain and encourage mask-wearing by the public even after controlling for vaccination. In this project, we show that mask mandates at the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We extended previous studies on the impact of masks on COVID-19 outcomes by investigating an unprecedented breadth and depth of specifications, and our results demonstrate the policy implications for reinforcing the need to maintain and encourage mask-wearing by the public even after controlling for vaccination.</p>
+
+
+
+<p>In this project, we show that mask mandates at the country-level (USA) had a significant positive effect on COVID outcomes (cases, hospitalizations and deaths), and that mask wearing (in 69 countries) similarly has a beneficial effect. This research was just published in the June issue of PLOS ONE, an open-access journal for multidisciplinary research in medicine and the sciences.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Chelsea Policy Simulator</title>
+		<link>https://centerofci.org/chelsea-policy-simulator/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 22:15:02 +0000</pubDate>
+				<category><![CDATA[Public Health]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=3057</guid>
+
+					<description><![CDATA[Policy plays a central role in complex systems. Even seemingly routine policy decisions ripple through a community’s healthcare, transportation, and environmental networks &#8211; and directly affect much more. Tracking the impact that different policies have can be an elusive task. Since 2020, our team has been experimenting with an exciting simulator that can measure and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Policy plays a central role in complex systems. Even seemingly routine policy decisions ripple through a community’s healthcare, transportation, and environmental networks &#8211; and directly affect much more. Tracking the impact that different policies have can be an elusive task. Since 2020, our team has been experimenting with an exciting simulator that can measure and evaluate the link between high-level policy decisions and real-world outcomes in the realm of COVID-19.</p>
+
+
+
+<ul>
+<li>Using a policy simulator, our team compared COVID-19 outcomes in communities with and without mask mandates, and found that mask mandates led to better outcomes in terms of case numbers, hospitalizations, and deaths.</li>
+
+
+
+<li>We are currently using our simulator to better understand COVID-19 outcome discrepancies across racial, gender, income, and age demographic groups.</li>
+
+
+
+<li>We are also exploring how these discrepancies relate to mobility patterns and policies, including limited air travel and work-from-home mandates for non-essential workers.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Potential Use Cases</h3>
+
+
+
+<ul>
+<li>Comparing the outcomes of policy interventions across members of different demographic groups</li>
+
+
+
+<li>Teaching decision-makers and the general public about the effectiveness of different policy measures, with the goal that these learnings can be applied to future infectious disease outbreaks</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Get Involved</h3>
+
+
+
+<ul>
+<li>If you’re curious to see how different policy decisions surrounding infectious disease affect your town, state, or community, please reach out to <a href="mailto:daniel@centerofci.org" data-type="mailto" data-id="mailto:daniel@centerofci.org">Daniel</a>.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Chelsea Project</title>
+		<link>https://centerofci.org/the-chelsea-project/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 13:12:21 +0000</pubDate>
+				<category><![CDATA[Public Health]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=2577</guid>
+
+					<description><![CDATA[Chelsea, Massachusetts is a 2.21 square mile city close to Boston, has an estimated population of 55,000 and a population density of 16K/square mile. It is ranked 29th in the US for urban population density. More than 60% of Chelsea’s population identifies as Latino/Hispanic and has a median household income of $32,000. More than 80% [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="The Chelsea Project" width="1290" height="726" src="https://www.youtube.com/embed/nDxI7XkgS94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Learn More About the Chelsea Project&#8217;s work</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-kadence-rowlayout alignnone"><div id="kt-layout-id_dcc84a-f5" class="kt-row-layout-inner kt-layout-id_dcc84a-f5"><div class="kt-row-column-wrap kt-has-1-columns kt-gutter-default kt-v-gutter-default kt-row-valign-top kt-row-layout-equal kt-tab-layout-inherit kt-m-colapse-left-to-right kt-mobile-layout-row">
+<div class="wp-block-kadence-column inner-column-1 kadence-column_91db9a-2d"><div class="kt-inside-inner-col">
+<div class="wp-block-kadence-testimonials kt-testimonial-halign-center kt-testimonial-style-basic kt-testimonials-media-off kt-testimonials-icon-off kt-testimonial-columns-3 kt-t-xxl-col-3 kt-t-xl-col-3 kt-t-lg-col-3 kt-t-md-col-2 kt-t-sm-col-1 kt-t-xs-col-1 kt-blocks-testimonials-wrap_3e0487-81"><div class="kt-testimonial-grid-wrap" style="grid-row-gap:30px;grid-column-gap:30px"><div class="kt-testimonial-item-wrap kt-testimonial-item-0" style="border-color:#eeeeee;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;max-width:500px"><div class="kt-testimonial-text-wrap"><div class="kt-testimonial-content-wrap"><div class="kt-testimonial-content"><em>&#8220;The Chelsea Project has provided a model of evidence and community informed responses to short- and long-term challenges. It has made work possible that otherwise would not have happened, like wastewater monitoring, and catalyzed action around emerging practices, like the health promoters. These elements and others have made a substantial contribution to keeping residents well and protecting them from ongoing risks to their health.&#8221;</em></div></div></div><div class="kt-testimonial-meta-wrap"><div class="kt-testimonial-meta-name-wrap"><div class="kt-testimonial-name-wrap"><div class="kt-testimonial-name">Berry Keppard</div></div><div class="kt-testimonial-occupation-wrap"><div class="kt-testimonial-occupation"><strong>Metropolitan Area Planning Council</strong></div></div></div></div></div><div class="kt-testimonial-item-wrap kt-testimonial-item-1" style="border-color:#eeeeee;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;max-width:500px"><div class="kt-testimonial-text-wrap"><div class="kt-testimonial-content-wrap"><div class="kt-testimonial-content"><em>&#8220;Chelsea’s Department of Public Health has been fortunate to count on the guidance of the Chelsea Project. Data systems spearheaded by the Chelsea Project, namely, the wastewater monitoring system guided the Board of Health&#8217;s decision to implement a citywide mask mandate. Additionally, their support of grassroots interventions such as the health promotores has been crucial to achieving high vaccination rates in the city. The Chelsea Project engages with the community on multiple levels and has bridged science, innovation and policy to deliver practical interventions that result in measurable outcomes.&#8221;</em></div></div></div><div class="kt-testimonial-meta-wrap"><div class="kt-testimonial-meta-name-wrap"><div class="kt-testimonial-name-wrap"><div class="kt-testimonial-name">Flor Amaya</div></div><div class="kt-testimonial-occupation-wrap"><div class="kt-testimonial-occupation"><strong>Research Coordinator for the City of Chelsea, MA</strong></div></div></div></div></div><div class="kt-testimonial-item-wrap kt-testimonial-item-2" style="border-color:#eeeeee;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;max-width:500px"><div class="kt-testimonial-text-wrap"><div class="kt-testimonial-content-wrap"><div class="kt-testimonial-content"><em>&#8220;TCP is a lived example of health equity in action. Through the interdisciplinary partnership of bench scientists, policy experts and grass roots organizations, TCP was critical to saving lives of some of the most vulnerable residents of Massachusetts. Constant communication, agility and local ownership allowed for research and data to drive a community response geared towards harm reduction. Listening to the lived experiences of Chelsea residents drove data collection and research that was relevant to community members.&#8221;</em></div></div></div><div class="kt-testimonial-meta-wrap"><div class="kt-testimonial-meta-name-wrap"><div class="kt-testimonial-name-wrap"><div class="kt-testimonial-name">Cris Alonso</div></div><div class="kt-testimonial-occupation-wrap"><div class="kt-testimonial-occupation"><strong>Director of Public Health, Center of Complex Interventions</strong></div></div></div></div></div></div></div>
+</div></div>
+</div></div></div>
+
+
+
+<p>Chelsea, Massachusetts is a 2.21 square mile city close to Boston, has an estimated population of 55,000 and a population density of 16K/square mile. It is ranked 29th in the US for urban population density. More than 60% of Chelsea’s population identifies as Latino/Hispanic and has a median household income of $32,000. More than 80% of the people in this city are essential workers. At the start of the pandemic, Chelsea had some of the highest numbers of COVID cases in the state. Now, the city has the second highest vaccination rate in the state among cities with comparable demographics.</p>
+
+
+
+<figure class="wp-block-image alignright size-large is-resized"><img decoding="async" fetchpriority="high" src="https://centerofci.org/wp-content/uploads/2021/07/DPW-Installing-Automatic-Composite-Samplers-1024x683.jpg" alt="" class="wp-image-264" width="522" height="348" srcset="https://centerofci.org/wp-content/uploads/2021/07/DPW-Installing-Automatic-Composite-Samplers-1024x683.jpg 1024w, https://centerofci.org/wp-content/uploads/2021/07/DPW-Installing-Automatic-Composite-Samplers-300x200.jpg 300w, https://centerofci.org/wp-content/uploads/2021/07/DPW-Installing-Automatic-Composite-Samplers-768x512.jpg 768w, https://centerofci.org/wp-content/uploads/2021/07/DPW-Installing-Automatic-Composite-Samplers-1536x1025.jpg 1536w, https://centerofci.org/wp-content/uploads/2021/07/DPW-Installing-Automatic-Composite-Samplers.jpg 1832w" sizes="(max-width: 522px) 100vw, 522px" /><figcaption><em>Chelsea&#8217;s Department of Public Works installed wastewater samplers in four locations around the city.</em></figcaption></figure>
+
+
+
+<p>The Chelsea Project worked with the city government, nonprofits in Chelsea, and researchers at Mass General Hospital to deploy a community-led response to the COVID pandemic in Chelsea. The response involved three key elements:</p>
+
+
+
+<ul><li>Implementing wastewater analysis, which can detect COVID-19 in sewage up to two weeks before infected individuals become symptomatic, to predict when and where spikes in COVID transmissions would occur. The Chelsea Project team collaborated with MGH researchers to determine the best locations for COVID testing sites based on the wastewater results. Wastewater analysis data provided the city government with an accurate view of the prevalence of COVID in the city.</li></ul>
+
+
+
+<ul><li>Creating a network of community health promoters and training them to speak with residents about their concerns around COVID testing and vaccinations. The health promoters also directed residents to testing sites, registered residents for vaccination appointments, and connected them to other relevant resources. Finally, the promoters provided real-time data to the Chelsea Project team about general perceptions, concerns, and questions about COVID among city residents.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="904" height="1024" src="https://centerofci.org/wp-content/uploads/2021/07/Screen-Shot-2021-07-07-at-4.55.16-PM-904x1024.png" alt="" class="wp-image-263" srcset="https://centerofci.org/wp-content/uploads/2021/07/Screen-Shot-2021-07-07-at-4.55.16-PM-904x1024.png 904w, https://centerofci.org/wp-content/uploads/2021/07/Screen-Shot-2021-07-07-at-4.55.16-PM-265x300.png 265w, https://centerofci.org/wp-content/uploads/2021/07/Screen-Shot-2021-07-07-at-4.55.16-PM-768x870.png 768w, https://centerofci.org/wp-content/uploads/2021/07/Screen-Shot-2021-07-07-at-4.55.16-PM-1355x1536.png 1355w, https://centerofci.org/wp-content/uploads/2021/07/Screen-Shot-2021-07-07-at-4.55.16-PM.png 1576w" sizes="(max-width: 904px) 100vw, 904px" /><figcaption><em>The community health promoters were responsible for scheduling ~4,000 vaccination appointments from March-June 2021.</em></figcaption></figure>
+
+
+
+<ul><li>Devising a communication strategy to provide accurate information about COVID and rebuild trust with residents. The Chelsea Project team created videos of leaders in the community (a priest, a local doctor, a Chelsea business owner) speaking directly to residents about COVID and why they should get vaccinated. The promoters release 3-5 TikTok videos per week to encourage COVID testing and vaccinations and to address misconceptions about the virus.</li></ul>
+
+
+
+<p>Our experience in Chelsea has demonstrated that public health is about more than just testing &#8211; it is affected by housing, food availability, and economic opportunities as well. By connecting the city with wastewater testing technology and working with the city and local nonprofits to develop the community health promoters program, CCI is building infrastructure that will operate beyond the COVID pandemic.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

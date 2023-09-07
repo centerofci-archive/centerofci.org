@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tools &amp; Data | Center of Complex Interventions</title>
+	<atom:link href="https://centerofci.org/tag/tools-data/feed/" rel="self" type="application/rss+xml" />
+	<link>https://centerofci.org/</link>
+	<description>Helping Communities Translate Science Into Action</description>
+	<lastBuildDate>Thu, 30 Mar 2023 11:30:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
+	<title>Tools &amp; Data | Center of Complex Interventions</title>
+	<link>https://centerofci.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Introducing Mathesar: an open source database interface for everyone</title>
+		<link>https://centerofci.org/introducing-mathesar-an-open-source-database-interface-for-everyone/</link>
+					<comments>https://centerofci.org/introducing-mathesar-an-open-source-database-interface-for-everyone/#respond</comments>
+		
+		<dc:creator><![CDATA[Kriti Godey]]></dc:creator>
+		<pubDate>Thu, 02 Mar 2023 19:25:37 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Tools & Data]]></category>
+		<guid isPermaLink="false">https://centerofci.org/?p=5705</guid>
+
+					<description><![CDATA[The Center of Complex Interventions is excited to announce the public alpha launch of Mathesar: an open source database tool that lets anyone, of any technical skill level, organize and use data with ease. The Mathesar team is seeking software engineers as well as non-technical users to help test out the tool and offer feedback. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="132" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-1024x132.png?lossy=1&strip=1&webp=1" alt="" class="wp-image-5706" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-1024x132.png?lossy=1&amp;strip=1&amp;webp=1 1024w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-300x39.png?lossy=1&amp;strip=1&amp;webp=1 300w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-768x99.png?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-1536x198.png?lossy=1&amp;strip=1&amp;webp=1 1536w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header.png?lossy=1&amp;strip=1&amp;webp=1 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The Center of Complex Interventions is excited to announce the public alpha launch of <a href="https://mathesar.org/">Mathesar</a>: an open source database tool that lets anyone, of any technical skill level, organize and use data with ease. The Mathesar team is seeking software engineers as well as non-technical users to help test out the tool and offer feedback.</p>
+
+
+
+<p>Mathesar makes it easy to organize information in the way that makes sense for you, and to collaborate on that information with others. Use Mathesar to create a customized database to plan events, track goals, manage inventory, or any other project you can think of. You&#8217;ll have a ready-made interface for data entry, as well as an intuitive way to build custom reports.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="503" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-1024x503.png?lossy=1&strip=1&webp=1" alt="" class="wp-image-5709" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-1024x503.png?lossy=1&amp;strip=1&amp;webp=1 1024w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-300x148.png?lossy=1&amp;strip=1&amp;webp=1 300w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-768x378.png?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-1536x755.png?lossy=1&amp;strip=1&amp;webp=1 1536w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-2048x1007.png?lossy=1&amp;strip=1&amp;webp=1 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Mathesar is designed to give users ownership, consistency, and flexibility with their data. Built on Postgres, the world’s most advanced open source database, Mathesar can be used on top of existing databases and integrated with most Postgres tools. By installing Mathesar on your own server you maintain control and privacy over your data, while the web-based interface offers easy collaboration and sharing with teams. With a user-friendly interface similar to a spreadsheet, Mathesar combines intuitive design with customizable functionality </p>
+
+
+
+<p><a href="https://demo.mathesar.org/">Check out a live demo of Mathesar here</a>.</p>
+
+
+
+<p>The Mathesar team is looking for a broad range of users to try out the tool and offer different perspectives.&nbsp;</p>
+
+
+
+<p>Getting started with Mathesar is easy:</p>
+
+
+
+<ol>
+<li><a href="https://docs.mathesar.org/" data-type="URL" data-id="https://docs.mathesar.org/">Install Mathesar on your server</a> and access the web interface</li>
+
+
+
+<li>Connect to an existing database or build a new one, and start organizing and using your data.</li>
+
+
+
+<li>Share your feedback <a href="https://github.com/centerofci/mathesar/">on GitHub</a> or email hello@mathesar.org</li>
+</ol>
+
+
+
+<p>The Mathesar team will incorporate alpha testers’ feedback into regular updates to the software as we work towards our stable 1.0 release. <a href="https://mathesar.org/mailing-list.html">Join our mailing list</a> for updates about Mathesar and opportunities to test out further developments.</p>
+
+
+
+<p>Interested in trying out Mathesar but not sure how to install it and get started? We’re happy to help! <a href="https://centerofci.github.io/mathesar-website/free-install.html">Click here</a> to request a free installation.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://centerofci.org/introducing-mathesar-an-open-source-database-interface-for-everyone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Chelsea Policy Simulator</title>
+		<link>https://centerofci.org/publications/the-chelsea-policy-simulator/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 00:28:12 +0000</pubDate>
+				<category><![CDATA[Public Health]]></category>
+		<category><![CDATA[Tools & Data]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3075</guid>
+
+					<description><![CDATA[In an effort to capture lessons from Chelsea’s pandemic response efforts against COVID-19, CCI researchers have built an empirical Bayes agents-based policy simulator for the Chelsea Project. This tool models demographics, mobility, transmission, infection, and disease dynamics using a large number of datasets such as anonymized aggregated phone location data for Massachusetts, in addition to census [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>In an effort to capture lessons from Chelsea’s pandemic response efforts against COVID-19, CCI researchers have built an empirical Bayes agents-based policy simulator for the <a href="http://thechelseaproject.org/">Chelsea Project</a>. This tool models demographics, mobility, transmission, infection, and disease dynamics using a large number of datasets such as anonymized aggregated phone location data for Massachusetts, in addition to census data.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Data Curator</title>
+		<link>https://centerofci.org/datacurator/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 11:53:35 +0000</pubDate>
+				<category><![CDATA[Tools & Data]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=2564</guid>
+
+					<description><![CDATA[What is DataCurator? DataCurator is a tool to map and manage complex problems.&#160; Data is messy, and the more types of data you need the messier it gets. DataCurator helps you to understand complex problems by breaking down large, disparate, and overlapping sets of information into modular component parts. Navigating a complex system requires gathering [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is DataCurator?</h2>
+
+
+
+<p><a href="https://datacurator.org/">DataCurator</a> is a tool to map and manage complex problems.&nbsp;</p>
+
+
+
+<p>Data is messy, and the more types of data you need the messier it gets. DataCurator helps you to understand complex problems by breaking down large, disparate, and overlapping sets of information into modular component parts.</p>
+
+
+
+<p>Navigating a complex system requires gathering and interpreting a variety of data from a diverse range of sources: quantitative and qualitative data from different kinds of surveys and studies, research and insights from numerous experts in different fields, sets of goals and priorities from different stakeholders.</p>
+
+
+
+<p>DataCurator allows you to build a usable, shareable model of a complex system to help you organize successful interventions.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">How does it work?</h2>
+
+
+
+<p>DataCurator visualizes connections between different types of data. You can put all your different types of information into one place, then isolate certain components and identify relationships and patterns across the full range of data.&nbsp;</p>
+
+
+
+<p>There are two dimensions of time built into the tool: one that lets you track your time within the tool itself, allowing you to check what you did when; and one that lets you plan interventions at simulated timescales.</p>
+
+
+
+<p>DataCurator allows you to plan for the uncertainty built into potential interventions. Uncertainty is inherent to complex systems: numbers may be inaccurate, people may behave differently than expected, circumstances can change rapidly. Planning a successful intervention requires accounting for various potential outcomes. With DataCurator you can enter a potential event in the simulated timescale of your planned intervention, then assign uncertainty to specific values.&nbsp;</p>
+
+
+
+<p>For example, you might say that if a positive test rate is at or below 3% it&#8217;s not a problem, but if it gets above that level different scenarios emerge.</p>
+
+
+
+<p>DataCurator aims to facilitate and encourage more precise and systematic recording of all the key elements we use to create models: the definitions, statuses, processes, assumptions, and imagined potential outcomes, based on all the information you have.</p>
+
+
+
+<h2 class="wp-block-heading">Who is it for?</h2>
+
+
+
+<p>DataCurator is for anyone trying to understand a complex system and intervene in it, who has a lot of information to understand and interpret.&nbsp;</p>
+
+
+
+<p>Use it for simple note-taking and organizing, or model and plan an entire intervention. Choose key indicators to simplify the map or use the goal-priority view to keep your goals on track.</p>
+
+
+
+<h2 class="wp-block-heading">How do I get started?</h2>
+
+
+
+<p>Go to <a href="https://datacurator.org/">datacurator.org</a> to get started for free or <a href="https://www.youtube.com/playlist?list=PLdbIJ7BPHJ_lHTDvBE8PhpLccPNq4Mu7E">watch the video tutorial series</a></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Who built it?</h2>
+
+
+
+<p>DataCurator is a <a href="https://centerofci.org/projects/">CCI project</a> supported by <a href="https://centerofci.org/about/">our generous funders</a>.</p>
+
+
+
+<h2 class="wp-block-heading">I have an idea, question or I have found a bug!</h2>
+
+
+
+<p>Please post any <a href="https://github.com/centerofci/DataCurator/discussions/categories/q-a">requests for support or questions here</a> or email us at webadmin at centerofci dot org .  For any bugs please <a href="https://github.com/centerofci/DataCurator/issues">post here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mathesar</title>
+		<link>https://centerofci.org/mathesar/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 12:56:49 +0000</pubDate>
+				<category><![CDATA[Tools & Data]]></category>
+		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=project&#038;p=2351</guid>
+
+					<description><![CDATA[Effective interventions to complex problems are often buried within data. Mathesar simplifies the process of collaboratively maintaining complex data sets and gleaning useful information from them. Potential use cases Mathesar can be used in any workflow that involves data, so there are thousands of possible use cases. Check out a live demo of Mathesar here. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Effective interventions to complex problems are often buried within data. Mathesar simplifies the process of collaboratively maintaining complex data sets and gleaning useful information from them.</p>
+
+
+
+<ul>
+<li>Unlike a spreadsheet, Mathesar keeps your data structured and clean. It embraces relational data, allowing you to accurately model complex structures through simple relationships.</li>
+
+
+
+<li>Unlike a database, Mathesar&#8217;s intuitive interface lets you get started editing your data quickly and continues to help you evolve the structure of your data as your needs change.</li>
+
+
+
+<li>Unlike similar spreadsheet-database hybrid tools, Mathesar stores all its data in a PostgreSQL database with exactly the same structure shown to the user, including primary keys, foreign keys, types, and constraints. This approach keeps your data maximally interoperable, and even makes it possible to work with the same data in other tools outside Mathesar.&nbsp; You can also host your own Mathesar installation too, giving you ownership, privacy, and control of your data.</li>
+</ul>
+
+
+
+<p><strong>Potential use cases</strong></p>
+
+
+
+<p>Mathesar can be used in any workflow that involves data, so there are thousands of possible use cases.</p>
+
+
+
+<ul>
+<li>Business processes – inventory management, project management, CRM</li>
+
+
+
+<li>Prototyping new software projects</li>
+
+
+
+<li>Publishing data sets and allowing users to explore them freely</li>
+</ul>
+
+
+
+<p><strong><a href="https://demo.mathesar.org/">Check out a live demo of Mathesar here</a>.</strong></p>
+
+
+
+<h2 class="wp-block-heading">GET INVOLVED</h2>
+
+
+
+<p><strong>If you’re interested in using Mathesar or collaborating with us, please email <a href="mailto:hello@mathesar.org" data-type="mailto" data-id="mailto:hello@mathesar.org">hello@mathesar.org</a> or </strong><a href="https://github.com/centerofci/mathesar/"><strong>star us on GitHub</strong></a><strong>!</strong></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CCI Welcomes Google Summer of Code Contributors</title>
+		<link>https://centerofci.org/cci-welcomes-google-summer-of-code-contributors/</link>
+					<comments>https://centerofci.org/cci-welcomes-google-summer-of-code-contributors/#respond</comments>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 08 Jun 2022 15:05:02 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Tools & Data]]></category>
+		<guid isPermaLink="false">https://centerofci.org/?p=1515</guid>
+
+					<description><![CDATA[The Center of Complex Interventions is excited to welcome three contributors to the Mathesar project this summer as part of Google’s Summer of Code. Each contributor will be working on adding a specific feature to Mathesar under the guidance of 1-2 members of CCI’s Mathesar core team.&#160; Mathesar is an open source database project, currently [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="132" src="https://centerofci.org/cms/wp-content/uploads/2022/06/header-2-1024x132.png" alt="" class="wp-image-1544" srcset="https://centerofci.org/wp-content/uploads/2022/06/header-2-1024x132.png 1024w, https://centerofci.org/wp-content/uploads/2022/06/header-2-300x39.png 300w, https://centerofci.org/wp-content/uploads/2022/06/header-2-768x99.png 768w, https://centerofci.org/wp-content/uploads/2022/06/header-2-1536x198.png 1536w, https://centerofci.org/wp-content/uploads/2022/06/header-2-2048x264.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The Center of Complex Interventions is excited to welcome three contributors to the <a href="https://centerofci.org/projects/mathesar/">Mathesar</a> project this summer as part of Google’s Summer of Code. Each contributor will be working on adding a specific feature to Mathesar under the guidance of 1-2 members of CCI’s Mathesar core team.&nbsp;</p>
+
+
+
+<p>Mathesar is an open source database project, currently in early development. Mathesar provides an intuitive user interface for non-technical users to work with relational databases without any existing knowledge of database concepts. Users can store, organize, and set up various views of their data. Users will also be able to collaborate with other users, see visualizations of their data, and evolve their data model as their needs change. Mathesar is designed to be self-hosted on users’ own servers.&nbsp;</p>
+
+
+
+<p>Over the next few months, our Summer of Code contributors will work with the team to get Mathesar ready for an alpha release.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Meet our contributors</h3>
+
+
+
+<p><strong>Yurii Palaida</strong></p>
+
+
+
+<figure class="wp-block-image alignright size-medium is-resized is-style-default"><img decoding="async" loading="lazy" src="https://centerofci.org/cms/wp-content/uploads/2022/06/Yurii-scaled-1-200x300.jpg" alt="" class="wp-image-1538" width="100" height="150" srcset="https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-200x300.jpg 200w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-683x1024.jpg 683w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-768x1152.jpg 768w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-1024x1536.jpg 1024w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-1366x2048.jpg 1366w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1.jpg 1707w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+
+
+
+<p>Yurii Palaida is an alumnus of Binary Studio Academy, one of the best free online programming courses in Ukraine. Yurii works as a full-stack .NET developer and adores Python in his free time. Yurii also has experience as a mentor himself, working with students from the Academy after he graduated to build a state-of-the-art web application. In his free time, Yurii enjoys traveling with his wife, playing with their dog and cat, and reading about new topics like learning, evolution, and behaviorism. “I love learning and exploring. That&#8217;s why I applied to participate in the Google Summer of Code,” says Yurii. “I&#8217;m so happy to become a part of this community and consider it a first step into the world of open-source.”</p>
+
+
+
+<p>Yurii will implement &#8220;dependency graph&#8221; functionality in Mathesar that will consist of API endpoints for querying dependents for specific database objects and a UI for displaying those in the form of visual graphs.&nbsp;</p>
+
+
+
+<p><strong>Jinxiao Li</strong></p>
+
+
+
+<figure class="wp-block-image alignright size-medium is-resized"><img decoding="async" loading="lazy" src="https://centerofci.org/cms/wp-content/uploads/2022/06/Jinxiao-300x273.jpg" alt="" class="wp-image-1517" width="150" height="137" srcset="https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-300x273.jpg 300w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-1024x931.jpg 1024w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-768x698.jpg 768w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-1536x1397.jpg 1536w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao.jpg 1642w" sizes="(max-width: 150px) 100vw, 150px" /></figure>
+
+
+
+<p>Jinxiao is a Master&#8217;s student at Carnegie Mellon University, majoring in Information Systems Management. With previous experience as a data scientist intern, she maintained database tables with millions of daily recordings, and understands the need to design a handy data management application. In her free time Jinxiao enjoys painting, reading detective stories, and traveling. “Developing a tool that can help people with their work will be a really fun thing to do in my life,” she says.</p>
+
+
+
+<p>Jinxiao will implement support for working with JSON data in Mathesar. Her work will include automatic recognition of JSON during data import, changing a database ﬁeld to a JSON object, data validation and support for custom grouping, ﬁltering, and sorting operations.</p>
+
+
+
+<p><strong>Anish Umale</strong></p>
+
+
+
+<figure class="wp-block-image alignright size-medium is-resized"><img decoding="async" loading="lazy" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-300x300.jpg?lossy=1&strip=1&webp=1" alt="" class="wp-image-3349" width="150" height="150" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-300x300.jpg?lossy=1&amp;strip=1&amp;webp=1 300w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-1024x1024.jpg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-150x150.jpg?lossy=1&amp;strip=1&amp;webp=1 150w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-768x768.jpg?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-1536x1536.jpg?lossy=1&amp;strip=1&amp;webp=1 1536w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-2048x2048.jpg?lossy=1&amp;strip=1&amp;webp=1 2048w" sizes="(max-width: 150px) 100vw, 150px" /></figure>
+
+
+
+<p>Anish Umale is a junior computer engineering student from India, where his focus is in backend and API development. He’s interested in exploring different areas, including blockchain, computer networks, and system design. In Anish’s free time he likes to read, watch live streams, and play video games, as well as swimming and kite flying. He says, “I am fascinated by the idea of open-source software which unknowingly I&#8217;ve been using my entire life and is used by millions of users worldwide for free! This inspired me to contribute to open-source software.”</p>
+
+
+
+<p>Currently, Mathesar only supports creating a new table when data is imported. Anish aims to enhance the capability of Mathesar’s APIs and database code to support importing data into an existing table for a seamless user experience.</p>
+
+
+
+<h3 class="wp-block-heading">Mentorship and community</h3>
+
+
+
+<p>The Summer of Code program is focused on mentorship as well as coding and open source. Mentors will meet with mentees at least once a week and stay in touch via chat daily. They’ll answer questions, review code, help mentees when stuck, and generally do whatever it takes to help the mentees complete their project on time. Yurii, Jinxiao, and Anish will learn what it&#8217;s like to work with a professional engineering team, work on an open source project, and improve both technical and non-technical skills.</p>
+
+
+
+<p>“We’re so thrilled to have these three talented young professionals on our team this summer, and we’re excited to share our community with them as well as our ethos of open source,” says project lead Kriti Godey, director of technology for CCI. “By the end of the program, we expect to see their projects become part of the main Mathesar codebase and available to Mathesar users.”</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://centerofci.org/cci-welcomes-google-summer-of-code-contributors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mathesar participating in Google Summer of Code 2022</title>
+		<link>https://centerofci.org/mathesar-participating-in-google-summer-of-code-2022/</link>
+					<comments>https://centerofci.org/mathesar-participating-in-google-summer-of-code-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Tue, 08 Mar 2022 20:48:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Tools & Data]]></category>
+		<guid isPermaLink="false">https://centerofci.org/?p=866</guid>
+
+					<description><![CDATA[Mathesar, an open source database project from the Center of Complex Interventions (CCI), has been selected as a mentoring organization for Google Summer of Code (GSoC) 2022. The Mathesar team is seeking contributors with Python, JavaScript, or PostgreSQL skills to work on the project. Contributors will solve interesting technical challenges, acquire new skills, and learn [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image alignright size-full is-resized"><img decoding="async" loading="lazy" src="https://centerofci.org/cms/wp-content/uploads/2022/03/mid-size-2.png" alt="" class="wp-image-891" width="759" height="380" srcset="https://centerofci.org/wp-content/uploads/2022/03/mid-size-2.png 1012w, https://centerofci.org/wp-content/uploads/2022/03/mid-size-2-300x150.png 300w, https://centerofci.org/wp-content/uploads/2022/03/mid-size-2-768x384.png 768w" sizes="(max-width: 759px) 100vw, 759px" /></figure>
+
+
+
+<p>Mathesar, an open source database project from the Center of Complex Interventions (CCI), has been selected as a mentoring organization for <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> (GSoC) 2022. The Mathesar team is seeking contributors with Python, JavaScript, or PostgreSQL skills to work on the project. Contributors will solve interesting technical challenges, acquire new skills, and learn what it’s like to work with a team on an open source project. See our <a href="https://wiki.mathesar.org/en/community/mentoring/applicant-guide">Applicant Guide</a> and <a href="https://wiki.mathesar.org/en/community/mentoring/project-ideas">Project Ideas page</a> for how to get started.</p>
+
+
+
+<p><a href="https://wiki.mathesar.org/en/product/about">Mathesar</a> aims to make databases accessible to non-technical users, allowing users to store, manipulate, visualize, and collaborate with others on their data. It’s currently in early development, with the goal of releasing our first alpha version in mid-2022. Learn more about Mathesar, including some of the different types of contributions we’re looking for, on <a href="https://wiki.mathesar.org/">the Mathesar wiki</a>.&nbsp;</p>
+
+
+
+<p>“We’re excited to grow the open source community by mentoring people new to open source,” says project lead Kriti Godey, director of technology for CCI. “This is a wonderful opportunity for us to spread the word about Mathesar and recruit community contributors. Although this is Mathesar’s first time participating in GSoC, the team has experience with mentoring GSoC contributors from previous organizations. We’re looking forward to developing relationships with people with all kinds of different backgrounds who are enthusiastic about the importance of open source software. ”</p>
+
+
+
+<p>Google’s Summer of Code program pairs mentor organizations with contributors who are new to open source software. Contributors receive a stipend for the <a href="https://summerofcode.withgoogle.com/how-it-works">12-week program</a> with their mentor organization, which includes a 3-week community building and project introduction period, coding sprints, hands-on mentoring, and two-way evaluations.&nbsp;</p>
+
+
+
+<p>This year for the first time Google is accepting applications from anyone new to open source, rather than limiting the program to post-secondary students as in past years. The Mathesar team is interested in hearing from anyone who’s eager to learn and cares about making data, and databases, accessible and useful to all.&nbsp;</p>
+
+
+
+<p>Although contributor applications for Summer of Code open on April 4, interested contributors should <a href="https://wiki.mathesar.org/en/community/mentoring/applicant-guide">read through our Applicant Guide</a> and start discussing projects with mentors as soon as possible.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://centerofci.org/mathesar-participating-in-google-summer-of-code-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
