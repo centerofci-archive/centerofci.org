@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -28,28 +28,12 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Isha Datar</title>
-		<link>https://centerofci.org/team/isha-datar/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 11:33:30 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2589</guid>
-
-					<description><![CDATA[Isha is executive director of New Harvest, a nonprofit research institute that funds open, public cultured meat research. She has been pioneering cellular agriculture since 2009, driven by a passion to see transformative technology create a better world. In 2010, Isha published a review paper in the scientific journal Innovative Food Science and Emerging Technologies, [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Isha is executive director of New Harvest, a nonprofit research institute that funds open, public cultured meat research. She has been pioneering cellular agriculture since 2009, driven by a passion to see transformative technology create a better world. In 2010, Isha published a review paper in the scientific journal Innovative Food Science and Emerging Technologies, among the first handful of papers to ever discuss cultured meat in academic literature. After co-founding Muufri (now Perfect Day Foods) and Clara Foods in 2014, she transferred her founding equity to New Harvest and used it to establish an endowment for cell ag research. In 2015, Isha coined the term &#8220;cellular agriculture&#8221; — officially creating a category for agriculture products produced from cell cultures rather than whole plants or animals. Isha is a Shuttleworth Foundation Fellow and Director’s Fellow at the MIT Media Lab. Isha holds a BSc. in cell and molecular biology from the University of Alberta and a master&#8217;s in biotechnology from the University of Toronto.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Joi Ito</title>
 		<link>https://centerofci.org/team/joi-ito/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 11:37:53 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2592</guid>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2592</guid>
 
 					<description><![CDATA[Joi Ito is an advisor to the CCI team and helps with several ongoing research projects. He is currently a partner at the venture capital firm, Neoteny, a guest researcher at Keio University&#8217;s Cyber Civilization Research Center and founder and board member of Digital Garage in Tokyo. He has had numerous roles in the past [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -66,6 +50,22 @@
 
 
 <p>He earned his Ph.D. from the School of Media and Governance at Keio University and is co-author with Jeff Howe of Whiplash: How to Survive Our Faster Future (Grand Central Publishing, December 2016).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Isha Datar</title>
+		<link>https://centerofci.org/team/isha-datar/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 11:33:30 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2589</guid>
+
+					<description><![CDATA[Isha is executive director of New Harvest, a nonprofit research institute that funds open, public cultured meat research. She has been pioneering cellular agriculture since 2009, driven by a passion to see transformative technology create a better world. In 2010, Isha published a review paper in the scientific journal Innovative Food Science and Emerging Technologies, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Isha is executive director of New Harvest, a nonprofit research institute that funds open, public cultured meat research. She has been pioneering cellular agriculture since 2009, driven by a passion to see transformative technology create a better world. In 2010, Isha published a review paper in the scientific journal Innovative Food Science and Emerging Technologies, among the first handful of papers to ever discuss cultured meat in academic literature. After co-founding Muufri (now Perfect Day Foods) and Clara Foods in 2014, she transferred her founding equity to New Harvest and used it to establish an endowment for cell ag research. In 2015, Isha coined the term &#8220;cellular agriculture&#8221; — officially creating a category for agriculture products produced from cell cultures rather than whole plants or animals. Isha is a Shuttleworth Foundation Fellow and Director’s Fellow at the MIT Media Lab. Isha holds a BSc. in cell and molecular biology from the University of Alberta and a master&#8217;s in biotechnology from the University of Toronto.</p>
 ]]></content:encoded>
 					
 		

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -44,7 +44,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="810" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2-1024x810.jpg?lossy=1&strip=1&webp=1" alt="" class="wp-image-3553" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2-1024x810.jpg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2-300x237.jpg?lossy=1&amp;strip=1&amp;webp=1 300w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2-768x607.jpg?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2.jpg?lossy=1&amp;strip=1&amp;webp=1 1275w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="810" src="https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2-1024x810.jpg" alt="" class="wp-image-3553" srcset="https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2-1024x810.jpg 1024w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2-300x237.jpg 300w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2-768x607.jpg 768w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Team-2.jpg 1275w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -112,7 +112,7 @@
 
 
 <div class="wp-block-kadence-column inner-column-1 kadence-column_b637af-bc"><div class="kt-inside-inner-col">
-<figure class="wp-block-image tb-image tb-image-dynamic tb-image-frame-none" data-toolset-blocks-image="26a48c85ecbdcd1612fcae400e22f3f8"><a href="https://centerofci.org/wp-content/uploads/2022/11/TCP_Public-Health-Manual.pdf" target="_blank" rel="noreferrer noopener"><img decoding="async" width="267" height="300" loading="lazy" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-267x300.png?lossy=1&strip=1&webp=1" alt="" class="wp-image-3804" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-267x300.png?lossy=1&amp;strip=1&amp;webp=1 267w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-910x1024.png?lossy=1&amp;strip=1&amp;webp=1 910w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-768x864.png?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-1365x1536.png?lossy=1&amp;strip=1&amp;webp=1 1365w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image.png?lossy=1&amp;strip=1&amp;webp=1 1374w" sizes="(max-width: 267px) 100vw, 267px" /></a><figcaption><div class="tb-image-caption">COVID-19 Intervention Manual</div></figcaption></figure>
+<figure class="wp-block-image tb-image tb-image-dynamic tb-image-frame-none" data-toolset-blocks-image="b18e2fbcb1ec2c75ed897852a4d328f1"><a href="https://centerofci.org/wp-content/uploads/2022/11/TCP_Public-Health-Manual.pdf" target="_blank" rel="noreferrer noopener"><img decoding="async" width="267" height="300" loading="lazy" src="https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-267x300.png" alt="" class="wp-image-3804" srcset="https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-267x300.png 267w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-910x1024.png 910w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-768x864.png 768w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-1365x1536.png 1365w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image.png 1374w" sizes="(max-width: 267px) 100vw, 267px" /></a><figcaption><div class="tb-image-caption">COVID-19 Intervention Manual</div></figcaption></figure>
 </div></div>
 
 
@@ -138,7 +138,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 09:29:46 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3137</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3137</guid>
 
 					<description><![CDATA[Abstract With the ongoing COVID-19 pandemic, and in response to high demand, a multitude of diagnostic tests for the detection and monitoring of the spread of the SARS-CoV-2 virus have been developed. This living document aims to survey the technical aspects of these diagnostic tests, outline the features and current limitations of their underlying technologies, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -163,7 +163,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 09:25:10 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3136</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3136</guid>
 
 					<description><![CDATA[Abstract Rapid access to diagnostics for emerging high priority pathogens is of great importance from a clinical, public health and economic point of view. Currently, in the United States there are several technological, regulatory and organisational improvements that might be adopted for the COVID-19 and future pandemics; In this article, we suggest a proposal for [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -188,7 +188,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 09:11:34 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3130</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3130</guid>
 
 					<description><![CDATA[Clinical diagnoses and epidemiological surveillance of the COVID-19 pandemic relies on the availability of highly sensitive, scalable, and low-cost tests. Given the urgent and massive demand for testing in the United States, the Food and Drug Administration (FDA) has been issuing Emergency Use Authorizations (EUAs) [undefined] on an ongoing basis for many private test kits and laboratories.]]></description>
 										<content:encoded><![CDATA[
@@ -205,7 +205,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 01:08:32 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3098</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3098</guid>
 
 					<description><![CDATA[This is the third document in our series exploring SARS-CoV-2 diagnostics. Our first exploratory documents were produced in mid April after a significant increase in the number of new diagnostics being issued Emergency Use Authorisations (EUAs) and in the intervening 6 months many new EUAs have been released. Read the full report here.]]></description>
 										<content:encoded><![CDATA[<p>This is the third document in our series exploring SARS-CoV-2 diagnostics. Our first exploratory documents were produced in mid April after a significant increase in the number of new diagnostics being issued Emergency Use Authorisations (EUAs) and in the intervening 6 months many new EUAs have been released.</p>
@@ -222,7 +222,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 01:06:57 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3097</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3097</guid>
 
 					<description><![CDATA[To mask or not to mask? Understanding the effect of mask wearing on COVID-19 health outcomes, and what are the drivers behind increased mask wearing are critically important questions &#8211; at least until we have enough people vaccinated.&#160; Numerous studies have shown that masks have been associated with a reduction in the infection rate among [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -247,7 +247,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 00:42:23 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3086</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3086</guid>
 
 					<description><![CDATA[Abstract We extend previous studies on the impact of masks on COVID-19 outcomes by investigating an unprecedented breadth and depth of health outcomes, geographical resolutions, types of mask mandates, early versus later waves and controlling for other government interventions, mobility testing rate and weather. We show that mask mandates are associated with a statistically significant [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -276,7 +276,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 00:34:25 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3082</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3082</guid>
 
 					<description><![CDATA[Abstract The small city of Chelsea, Massachusetts had one of the highest COVID-19 transmission rates in New England in the summer of 2020. Many factors contributed to the spread of COVID-19 in Chelsea including overcrowded living conditions, a high proportion of residents working in essential jobs, and misinformation about COVID-19 and testing.&#160; The Center of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -314,7 +314,7 @@
 		<pubDate>Tue, 18 Oct 2022 00:28:12 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
 		<category><![CDATA[Tools & Data]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3075</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3075</guid>
 
 					<description><![CDATA[In an effort to capture lessons from Chelsea’s pandemic response efforts against COVID-19, CCI researchers have built an empirical Bayes agents-based policy simulator for the Chelsea Project. This tool models demographics, mobility, transmission, infection, and disease dynamics using a large number of datasets such as anonymized aggregated phone location data for Massachusetts, in addition to census [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -331,7 +331,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Mon, 17 Oct 2022 22:36:42 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=3064</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=projects#038;p=3064</guid>
 
 					<description><![CDATA[We extended previous studies on the impact of masks on COVID-19 outcomes by investigating an unprecedented breadth and depth of specifications, and our results demonstrate the policy implications for reinforcing the need to maintain and encourage mask-wearing by the public even after controlling for vaccination. In this project, we show that mask mandates at the [&#8230;]]]></description>
 										<content:encoded><![CDATA[

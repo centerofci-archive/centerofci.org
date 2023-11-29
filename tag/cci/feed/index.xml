@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -40,7 +40,7 @@
 
 					<description><![CDATA[CCI is excited to release its Impact Report for 2022. To name just a few highlights, in the past year, we started eight new collaborations, administered over 3,900 COVID tests in Chelsea, MA, and just launched an open-source database tool with over 1500 stars on GitHub. Read the report to learn more about our health [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><a href="https://centerofci.org/wp-content/uploads/2023/03/2022-Impact-Report.pdf" target="_blank" rel="noreferrer noopener"><img decoding="async" fetchpriority="high" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-719x1024.png?lossy=1&strip=1&webp=1" alt="" class="wp-image-6379" width="360" height="512" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-719x1024.png?lossy=1&amp;strip=1&amp;webp=1 719w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-211x300.png?lossy=1&amp;strip=1&amp;webp=1 211w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-768x1094.png?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm.png?lossy=1&amp;strip=1&amp;webp=1 866w" sizes="(max-width: 360px) 100vw, 360px" /></a></figure>
+<figure class="wp-block-image size-large is-resized"><a href="https://centerofci.org/wp-content/uploads/2023/03/2022-Impact-Report.pdf" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" src="https://centerofci.org/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-719x1024.png" alt="" class="wp-image-6379" width="360" height="512" srcset="https://centerofci.org/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-719x1024.png 719w, https://centerofci.org/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-211x300.png 211w, https://centerofci.org/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm-768x1094.png 768w, https://centerofci.org/wp-content/uploads/2023/03/Screenshot-2023-03-30-at-12.28.03-pm.png 866w" sizes="(max-width: 360px) 100vw, 360px" /></a></figure>
 
 
 
@@ -75,7 +75,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 01:12:52 +0000</pubDate>
 				<category><![CDATA[CCI]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3099</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3099</guid>
 
 					<description><![CDATA[Our world is inherently complex. Whether it is biology, physics, or social science, it is impossible to draw definitive and complete descriptions of even seemingly simple systems. Be it a single-celled organism, a collection of gas molecules, or a small group of people, incontrovertibly causal pictures often elude us. Science frequently attempts to learn the [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -94,7 +94,7 @@
 		<pubDate>Fri, 14 Jan 2022 23:00:00 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[CCI]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?p=3068</guid>
+		<guid isPermaLink="false">https://centerofci.org/?p=3068</guid>
 
 					<description><![CDATA[Happy New Year!&#160; To kick off 2022, CCI has released an Impact Report to capture all that we’ve accomplished since we started the organization in the spring of 2020. Some of the biggest highlights from the past year and a half include a peer-reviewed paper in PLOS about the importance of wearing masks to reduce [&#8230;]]]></description>
 										<content:encoded><![CDATA[

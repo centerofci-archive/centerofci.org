@@ -12,13 +12,13 @@
 	<atom:link href="https://centerofci.org/department/team/feed/" rel="self" type="application/rss+xml" />
 	<link>https://centerofci.org/</link>
 	<description>Helping Communities Translate Science Into Action</description>
-	<lastBuildDate>Thu, 23 Feb 2023 11:26:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Oct 2022 13:28:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -33,31 +33,11 @@
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 13:00:45 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2601</guid>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2601</guid>
 
 					<description><![CDATA[Samantha Bates is the Executive Director of CCI where she sets the strategic vision for the organization, runs day-to-day operations, and works closely with the CCI research team on various research projects. Before CCI, Sam was the Director of Administration at YarnLabs Inc, a fiscal sponsor for non-profits. She also previously managed research at MIT [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Samantha Bates is the Executive Director of CCI where she sets the strategic vision for the organization, runs day-to-day operations, and works closely with the CCI research team on various research projects. Before CCI, Sam was the Director of Administration at YarnLabs Inc, a fiscal sponsor for non-profits. She also previously managed research at MIT and worked as a researcher at Harvard Law School and the Berkman Klein Center for Internet &amp; Society. Before entering the academic and non-profit space, Sam worked at Google. She has a master&#8217;s degree in Modern European History from the University of Cambridge and a B.A. in History from Grinnell College. When not running CCI, Sam can usually be found biking up New England’s finest gravel mountain roads.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ondrej Holiencin</title>
-		<link>https://centerofci.org/team/ondrej-holiencin/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 13:44:53 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2568</guid>
-
-					<description><![CDATA[Ondrej is an experienced IT architect, agile practitioner, certified scrum master, and consultant with a background in computer science and political economy. He participated in many international multimillion-dollar projects in finance, insurance, and banking. Ondrej works with the CCI operations team to set short-term and long-term goals for the organization and assists with project engagement [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Ondrej is an experienced IT architect, agile practitioner, certified scrum master, and consultant with a background in computer science and political economy. He participated in many international multimillion-dollar projects in finance, insurance, and banking.</p>
-
-
-
-<p>Ondrej works with the CCI operations team to set short-term and long-term goals for the organization and assists with project engagement and the grant application process.</p>
 ]]></content:encoded>
 					
 		
@@ -69,7 +49,7 @@
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 12:46:49 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2599</guid>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2599</guid>
 
 					<description><![CDATA[Karthik Dinakar is a research affiliate at CCI. Karthik is a machine learning and clinical medicine scholar. He advises research projects at CCI. Karthik has a PhD in machine learning from MIT and is an alumnus of Carnegie Mellon University.]]></description>
 										<content:encoded><![CDATA[
@@ -80,84 +60,112 @@
 		
 			</item>
 		<item>
-		<title>Adam Mullinax</title>
-		<link>https://centerofci.org/team/adam-mullinax/</link>
+		<title>Pavish Kumar Ramani Gopal</title>
+		<link>https://centerofci.org/team/pavish-kumar-ramani-gopal/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 13:02:19 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2602</guid>
+		<pubDate>Wed, 12 Oct 2022 11:43:19 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2595</guid>
 
-					<description><![CDATA[Adam Mullinax is the Chief Financial Officer of CCI where he manages the budgets and financials of the organization, while also working closely with the other team members to help with key organizational and strategic initiatives. Separately, Adam is an investor and partner at Neoteny, an early-stage venture capital firm with a broad focus across [&#8230;]]]></description>
+					<description><![CDATA[Pavish Kumar Ramani Gopal is a software engineer with a focus on building products that simplify complex usecases. At CCI, he works on Mathesar to help databases and data manipulation become more accessible for users of all skill levels. His past experiences include building SIEM solutions, log management products and E-commerce platforms. Apart from writing [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Adam Mullinax is the Chief Financial Officer of CCI where he manages the budgets and financials of the organization, while also working closely with the other team members to help with key organizational and strategic initiatives. Separately, Adam is an investor and partner at Neoteny, an early-stage venture capital firm with a broad focus across technology. Adam has a BS in Finance from the New York University, with a minor in history. While not working, Adam enjoys cooking, playing golf and spending time with his family and cats.</p>
+<p>Pavish Kumar Ramani Gopal is a software engineer with a focus on building products that simplify complex usecases. At CCI, he works on Mathesar to help databases and data manipulation become more accessible for users of all skill levels. His past experiences include building SIEM solutions, log management products and E-commerce platforms. Apart from writing code, he likes to sketch, and go on treks.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Kriti Godey</title>
-		<link>https://centerofci.org/team/kriti-godey/</link>
+		<title>Brent Moran</title>
+		<link>https://centerofci.org/team/brent-moran/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Mon, 03 Oct 2022 12:46:35 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=person&#038;p=2348</guid>
+		<pubDate>Mon, 03 Oct 2022 12:52:34 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=person#038;p=2349</guid>
 
-					<description><![CDATA[Kriti Godey manages technology at CCI. She spends the bulk of her time leading the Mathesar project, an open source product to help users of all skill levels work with data. Most recently, she was Director of Engineering at Creative Commons (CC), where she built open source tools to make CC licenses easier to work [&#8230;]]]></description>
+					<description><![CDATA[Brent Moran is an automation enthusiast working on Mathesar to help automate some of the tedium out of database administration, and making databases approachable for laypeople. Previously, he was engineering data at Creative Commons, helping to gather data for an image search engine. In a past life, he was a musician working in Kansas City, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Kriti Godey manages technology at CCI. She spends the bulk of her time leading the Mathesar project, an open source product to help users of all skill levels work with data. Most recently, she was Director of Engineering at Creative Commons (CC), where she built open source tools to make CC licenses easier to work with. Prior to that, she focused on leading happy and productive distributed engineering teams at startups, and has enjoyed architecting and building both consumer-facing and enterprise software.</p>
+<p>Brent Moran is an automation enthusiast working on Mathesar to help automate some of the tedium out of database administration, and making databases approachable for laypeople. Previously, he was engineering data at Creative Commons, helping to gather data for an image search engine. In a past life, he was a musician working in Kansas City, and later Denver. When he&#8217;s not at the computer, he enjoys exploring the outdoors with his dog Erdős.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Dominykas Mostauskis</title>
-		<link>https://centerofci.org/team/dominykas-mostauskis/</link>
+		<title>Dhaval Adjodah</title>
+		<link>https://centerofci.org/team/dhaval-adjodah/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 06:31:46 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=person&#038;p=2373</guid>
+		<pubDate>Wed, 12 Oct 2022 11:40:46 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2593</guid>
 
-					<description><![CDATA[Dominykas is a self-described technologist working on Mathesar. He&#8217;s passionate about facilitating change through better tools. He&#8217;s previously worked on a decentralized cryptocurrency exchange, technical trading software, and scientific programming. Outside working hours he likes running, swimming, and his pet guinea pigs.]]></description>
+					<description><![CDATA[Dhaval Adjodah is a machine learning and policy researcher working on pushing the limits of modern machine learning while maximizing their social good. Dhaval&#8217;s PhD thesis was in computational social science and reinforcement learning during which he was also a member of the&#160;Harvard Berkman Assembly&#160;on Ethics and Governance in Artificial Intelligence, and a fellow at [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Dominykas is a self-described technologist working on Mathesar. He&#8217;s passionate about facilitating change through better tools. He&#8217;s previously worked on a decentralized cryptocurrency exchange, technical trading software, and scientific programming. Outside working hours he likes running, swimming, and his pet guinea pigs.</p>
+<p>Dhaval Adjodah is a machine learning and policy researcher working on pushing the limits of modern machine learning while maximizing their social good. Dhaval&#8217;s PhD thesis was in computational social science and reinforcement learning during which he was also a member of the&nbsp;<a href="https://cyber.harvard.edu/node/100114" target="_blank" rel="noreferrer noopener">Harvard Berkman Assembly</a>&nbsp;on Ethics and Governance in Artificial Intelligence, and a fellow at the&nbsp;<a href="https://thecenter.mit.edu/home/fellows-the-center/" target="_blank" rel="noreferrer noopener">Dalai Lama Center For Ethics And Transformative Values</a>.</p>
+
+
+
+<p>Previously, Dhaval worked as a data scientist in banking and insurance, as a consultant with the Veterans Health Administration, and founder of two startup incubators. He holds a masters degree from the Technology and Policy Program from the (now) Institute for Data, Systems and Society, and a bachelors in Physics, also from MIT.</p>
+
+
+
+<p>In addition to the day-to-day work (machine learning engineering, running live online human experiments and writing papers), Dhaval enjoys being of service to the computer science and social science communities, most recently as a member of the organizing committee of the&nbsp;<a href="https://aiforsocialgood.github.io/neurips2019/organizers.htm" target="_blank" rel="noreferrer noopener">AI for Social Good</a>&nbsp;conference workshop series, and on the program committees of the&nbsp;Black in AI initiative&nbsp;and&nbsp;<a href="https://wensun.github.io/rl_theory_workshop_2020_ICML.github.io/#Program%20Committee" target="_blank" rel="noreferrer noopener">Theoretical Foundations of Reinforcement Learning</a>&nbsp;workshop.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Cristina Alonso</title>
-		<link>https://centerofci.org/team/cristina-alonso/</link>
+		<title>Rajat Vijay</title>
+		<link>https://centerofci.org/team/rajat-vijay/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 06:27:18 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=person&#038;p=2371</guid>
+		<pubDate>Mon, 03 Oct 2022 06:27:51 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=person#038;p=2296</guid>
 
-					<description><![CDATA[Cristina Alonso is a Doctor of Public Health who has ample experience implementing systems change in complex political settings. Her doctoral dissertation, &#8220;The Impact and Social Response to COVID-19 in Chelsea, MA&#8221; won the national award for Outstanding Dissertation of 2021 by the DrPH coalition. She was co-founder of the Academic Public Health Corps which deployed over [&#8230;]]]></description>
+					<description><![CDATA[Rajat Vijay is a software engineer with a major inclination towards the frontend &#38; JavaScript ecosystem. He enjoys simplifying user experiences by building accessible user interfaces. He has previously worked on Voice AI platforms &#38; large scale workflow automation tools. In his free time he enjoys traveling and exploring products that track his body vitals.]]></description>
 										<content:encoded><![CDATA[
-<p>Cristina Alonso is a Doctor of Public Health who has ample experience implementing systems change in complex political settings. Her doctoral dissertation, &#8220;<a href="https://centerofci.org/publications/the-impact-and-social-response-of-covid-19-in-chelsea-massachusetts/" data-type="publications" data-id="2407">The Impact and Social Response to COVID-19 in Chelsea, MA</a>&#8221; won the national award for Outstanding Dissertation of 2021 by the DrPH coalition. She was co-founder of the Academic Public Health Corps which deployed over 1000 public health students and professionals to support local public health efforts during COVID. She then became a leader in coordinating Chelsea&#8217;s multi/disciplinary COVID response. Prior to working in COVID, Cristina worked for 18 years in Latin America improving the quality of care in maternal health. She founded several full-scope birth centers in Mexico and worked with the Mexican Ministry of Health to integrate midwifery into the health care system. Her book, &#8220;Open a midwifery center&#8221;, has been published in three languages and is considered the seminal textbook for opening birth centers in low-resource settings. Cristina continues to work in maternal health improvement consulting in Afghanistan and the USA.</p>
+<p>Rajat Vijay is a software engineer with a major inclination towards the frontend &amp; JavaScript ecosystem. He enjoys simplifying user experiences by building accessible user interfaces. He has previously worked on Voice AI platforms &amp; large scale workflow automation tools. In his free time he enjoys traveling and exploring products that track his body vitals.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Alexander James Phillips</title>
-		<link>https://centerofci.org/team/alexander-james-phillips/</link>
+		<title>Ghislaine Guerin</title>
+		<link>https://centerofci.org/team/ghislaine-guerin/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 11:42:00 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2594</guid>
+		<pubDate>Wed, 12 Oct 2022 11:44:27 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2596</guid>
 
-					<description><![CDATA[Alexander James Phillips believes that the world is an increasingly complex and uncertain place, and to understand it we need to improve our individual and collective sense making abilities. AJP is a researcher, biochemist and software engineer working with CCI to build tools that help us make sense of our complex and uncertain world, and [&#8230;]]]></description>
+					<description><![CDATA[Ghislaine Guerin is a designer with a focus on experimenting and iterating with different design processes. During her twelve-year career in tech, she has worked on various products at healthcare and enterprise software startups. She enjoys sharing her ideas and experience with people and helping them think creatively. Ghislaine is currently the product designer for [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Alexander James Phillips believes that the world is an increasingly complex and uncertain place, and to understand it we need to improve our individual and collective sense making abilities. AJP is a researcher, biochemist and software engineer working with CCI to build tools that help us make sense of our complex and uncertain world, and harness our conscious collective intelligence.</p>
+<p>Ghislaine Guerin is a designer with a focus on experimenting and iterating with different design processes. During her twelve-year career in tech, she has worked on various products at healthcare and enterprise software startups. She enjoys sharing her ideas and experience with people and helping them think creatively.</p>
 
 
 
-<p>Early in the pandemic AJP helped co-found&nbsp;<a href="https://helpfulengineering.org/" target="_blank" rel="noreferrer noopener">Helpful Engineering</a>, the community for crowd sourced anti-covid action, and the&nbsp;<a href="https://opencovidpledge.org/" target="_blank" rel="noreferrer noopener">OpenCovidPledge</a>. Prior to these efforts to help resolve the pandemic sooner, he founded the crowdsourcing wiki simulations platform&nbsp;<a href="https://theworldsim.org/" target="_blank" rel="noreferrer noopener">TheWorldSim.org</a>. AJP has more than 10 years of experience in commercial software development, and holds a masters in biochemistry from the University of Oxford and a masters in biotechnology from the University of Cambridge.</p>
+<p>Ghislaine is currently the product designer for the Mathesar project, which aims to help people collaborate, develop, and explore the potential of database technologies to meet the challenges of an increasingly complex world.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Peg Nottingham</title>
+		<link>https://centerofci.org/team/peg-nottingham/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 13:46:26 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2569</guid>
+
+					<description><![CDATA[Margaret (Peg) Nottingham has been working in the online development world for over 25 years and has spent the past 15 focusing on User Interface (UI) and User Experience (UX) development and best practices.&#160; Peg has been an artist and a tech early adopter since childhood; she won her first drawing contest in kindergarten and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Margaret (Peg) Nottingham has been working in the online development world for over 25 years and has spent the past 15 focusing on User Interface (UI) and User Experience (UX) development and best practices.&nbsp;</p>
+
+
+
+<p>Peg has been an artist and a tech early adopter since childhood; she won her first drawing contest in kindergarten and learned how to program on an Apple //e in second grade. Working so closely with art and computers throughout her life, Peg believes that beauty isn’t just visual, it’s functional as well; you can have great beauty without technology, but you cannot have great technology if it doesn’t function beautifully.</p>
 ]]></content:encoded>
 					
 		
@@ -169,7 +177,7 @@
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Mon, 03 Oct 2022 12:54:44 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=person&#038;p=2350</guid>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=person#038;p=2350</guid>
 
 					<description><![CDATA[Sean is an engineer passionate about open source software, user experience, data, and interesting problems. He brings a background in tech, non-profits, CRMs, and community organizing to his work on our Mathesar project. In his free time he enjoys mountain biking, and carpentry.]]></description>
 										<content:encoded><![CDATA[
@@ -180,16 +188,16 @@
 		
 			</item>
 		<item>
-		<title>Daniel Begemann</title>
-		<link>https://centerofci.org/team/daniel-begemann/</link>
+		<title>Mukesh Murali</title>
+		<link>https://centerofci.org/team/mukesh-murali/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 02 Nov 2022 11:52:12 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=3700</guid>
+		<pubDate>Mon, 10 Oct 2022 12:49:47 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2498</guid>
 
-					<description><![CDATA[Daniel Begemann is a former CCI volunteer and policy simulator collaborator who is now working on CCI’s policy simulator projects full-time. He has an MSc in Data Science from the University of Liverpool, where his dissertation focused on epilepsy detection using EEG data. Prior to this, Dan worked in nonprofit administration in Washington, DC, as [&#8230;]]]></description>
+					<description><![CDATA[Mukesh is an engineer passionate about building systems that reduce complex problems into simple and elegant solutions. Previously he has worked on a platform for loyalty programmes, prior to which he was working on a workflow automation platform. He spends his free time at his farm or at the beach.]]></description>
 										<content:encoded><![CDATA[
-<p>Daniel Begemann is a former CCI volunteer and policy simulator collaborator who is now working on CCI’s policy simulator projects full-time. He has an MSc in Data Science from the University of Liverpool, where his dissertation focused on epilepsy detection using EEG data. Prior to this, Dan worked in nonprofit administration in Washington, DC, as well as at a public school. Dan is currently living in England. In his spare time, he enjoys volunteering, reading and writing, and playing sports.</p>
+<p>Mukesh is an engineer passionate about building systems that reduce complex problems into simple and elegant solutions. Previously he has worked on a platform for loyalty programmes, prior to which he was working on a workflow automation platform. He spends his free time at his farm or at the beach.</p>
 ]]></content:encoded>
 					
 		

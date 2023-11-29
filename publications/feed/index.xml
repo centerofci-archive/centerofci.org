@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -63,7 +63,7 @@
 
 
 <div class="wp-block-kadence-column inner-column-1 kadence-column_b637af-bc"><div class="kt-inside-inner-col">
-<figure class="wp-block-image tb-image tb-image-dynamic tb-image-frame-none" data-toolset-blocks-image="26a48c85ecbdcd1612fcae400e22f3f8"><a href="https://centerofci.org/wp-content/uploads/2022/11/TCP_Public-Health-Manual.pdf" target="_blank" rel="noreferrer noopener"><img decoding="async" width="267" height="300" loading="lazy" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-267x300.png?lossy=1&strip=1&webp=1" alt="" class="wp-image-3804" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-267x300.png?lossy=1&amp;strip=1&amp;webp=1 267w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-910x1024.png?lossy=1&amp;strip=1&amp;webp=1 910w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-768x864.png?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-1365x1536.png?lossy=1&amp;strip=1&amp;webp=1 1365w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image.png?lossy=1&amp;strip=1&amp;webp=1 1374w" sizes="(max-width: 267px) 100vw, 267px" /></a><figcaption><div class="tb-image-caption">COVID-19 Intervention Manual</div></figcaption></figure>
+<figure class="wp-block-image tb-image tb-image-dynamic tb-image-frame-none" data-toolset-blocks-image="b18e2fbcb1ec2c75ed897852a4d328f1"><a href="https://centerofci.org/wp-content/uploads/2022/11/TCP_Public-Health-Manual.pdf" target="_blank" rel="noreferrer noopener"><img decoding="async" width="267" height="300" loading="lazy" src="https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-267x300.png" alt="" class="wp-image-3804" srcset="https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-267x300.png 267w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-910x1024.png 910w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-768x864.png 768w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image-1365x1536.png 1365w, https://centerofci.org/wp-content/uploads/2022/11/The-Chelsea-Project-Manual-Featured-Image.png 1374w" sizes="(max-width: 267px) 100vw, 267px" /></a><figcaption><div class="tb-image-caption">COVID-19 Intervention Manual</div></figcaption></figure>
 </div></div>
 
 
@@ -90,7 +90,7 @@
 		<pubDate>Tue, 18 Oct 2022 00:28:12 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
 		<category><![CDATA[Tools & Data]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3075</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3075</guid>
 
 					<description><![CDATA[In an effort to capture lessons from Chelsea’s pandemic response efforts against COVID-19, CCI researchers have built an empirical Bayes agents-based policy simulator for the Chelsea Project. This tool models demographics, mobility, transmission, infection, and disease dynamics using a large number of datasets such as anonymized aggregated phone location data for Massachusetts, in addition to census [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -107,7 +107,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 00:34:25 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3082</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3082</guid>
 
 					<description><![CDATA[Abstract The small city of Chelsea, Massachusetts had one of the highest COVID-19 transmission rates in New England in the summer of 2020. Many factors contributed to the spread of COVID-19 in Chelsea including overcrowded living conditions, a high proportion of residents working in essential jobs, and misinformation about COVID-19 and testing.&#160; The Center of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -144,7 +144,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 00:42:23 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3086</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3086</guid>
 
 					<description><![CDATA[Abstract We extend previous studies on the impact of masks on COVID-19 outcomes by investigating an unprecedented breadth and depth of health outcomes, geographical resolutions, types of mask mandates, early versus later waves and controlling for other government interventions, mobility testing rate and weather. We show that mask mandates are associated with a statistically significant [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -173,7 +173,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 01:06:57 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3097</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3097</guid>
 
 					<description><![CDATA[To mask or not to mask? Understanding the effect of mask wearing on COVID-19 health outcomes, and what are the drivers behind increased mask wearing are critically important questions &#8211; at least until we have enough people vaccinated.&#160; Numerous studies have shown that masks have been associated with a reduction in the infection rate among [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -198,7 +198,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 12:32:27 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publication&#038;p=2407</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publication#038;p=2407</guid>
 
 					<description><![CDATA[Abstract Chelsea was one of the hardest-hit communities by COVID-19 in Massachusetts. Chelsea was known for its weaknesses: high rates of over-crowded housing, a large immigrant and Latinx community, low-wage workers among larger systemic problems. Overlooked in public health research on Chelsea are its strengths and capacities that were activated during the pandemic to ensure [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -243,7 +243,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 01:08:32 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3098</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3098</guid>
 
 					<description><![CDATA[This is the third document in our series exploring SARS-CoV-2 diagnostics. Our first exploratory documents were produced in mid April after a significant increase in the number of new diagnostics being issued Emergency Use Authorisations (EUAs) and in the intervening 6 months many new EUAs have been released. Read the full report here.]]></description>
 										<content:encoded><![CDATA[<p>This is the third document in our series exploring SARS-CoV-2 diagnostics. Our first exploratory documents were produced in mid April after a significant increase in the number of new diagnostics being issued Emergency Use Authorisations (EUAs) and in the intervening 6 months many new EUAs have been released.</p>
@@ -260,7 +260,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 09:25:10 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3136</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3136</guid>
 
 					<description><![CDATA[Abstract Rapid access to diagnostics for emerging high priority pathogens is of great importance from a clinical, public health and economic point of view. Currently, in the United States there are several technological, regulatory and organisational improvements that might be adopted for the COVID-19 and future pandemics; In this article, we suggest a proposal for [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -285,7 +285,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 01:12:52 +0000</pubDate>
 				<category><![CDATA[CCI]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3099</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3099</guid>
 
 					<description><![CDATA[Our world is inherently complex. Whether it is biology, physics, or social science, it is impossible to draw definitive and complete descriptions of even seemingly simple systems. Be it a single-celled organism, a collection of gas molecules, or a small group of people, incontrovertibly causal pictures often elude us. Science frequently attempts to learn the [&#8230;]]]></description>
 										<content:encoded><![CDATA[

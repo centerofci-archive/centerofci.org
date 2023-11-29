@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -40,7 +40,7 @@
 
 					<description><![CDATA[The Center of Complex Interventions is excited to announce the public alpha launch of Mathesar: an open source database tool that lets anyone, of any technical skill level, organize and use data with ease. The Mathesar team is seeking software engineers as well as non-technical users to help test out the tool and offer feedback. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="132" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-1024x132.png?lossy=1&strip=1&webp=1" alt="" class="wp-image-5706" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-1024x132.png?lossy=1&amp;strip=1&amp;webp=1 1024w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-300x39.png?lossy=1&amp;strip=1&amp;webp=1 300w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-768x99.png?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header-1536x198.png?lossy=1&amp;strip=1&amp;webp=1 1536w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/Blog-Post-Header.png?lossy=1&amp;strip=1&amp;webp=1 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="132" src="https://centerofci.org/wp-content/uploads/2023/03/Blog-Post-Header-1024x132.png" alt="" class="wp-image-5706" srcset="https://centerofci.org/wp-content/uploads/2023/03/Blog-Post-Header-1024x132.png 1024w, https://centerofci.org/wp-content/uploads/2023/03/Blog-Post-Header-300x39.png 300w, https://centerofci.org/wp-content/uploads/2023/03/Blog-Post-Header-768x99.png 768w, https://centerofci.org/wp-content/uploads/2023/03/Blog-Post-Header-1536x198.png 1536w, https://centerofci.org/wp-content/uploads/2023/03/Blog-Post-Header.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="503" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-1024x503.png?lossy=1&strip=1&webp=1" alt="" class="wp-image-5709" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-1024x503.png?lossy=1&amp;strip=1&amp;webp=1 1024w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-300x148.png?lossy=1&amp;strip=1&amp;webp=1 300w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-768x378.png?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-1536x755.png?lossy=1&amp;strip=1&amp;webp=1 1536w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2023/03/crm-table-2048x1007.png?lossy=1&amp;strip=1&amp;webp=1 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="503" src="https://centerofci.org/wp-content/uploads/2023/03/crm-table-1024x503.png" alt="" class="wp-image-5709" srcset="https://centerofci.org/wp-content/uploads/2023/03/crm-table-1024x503.png 1024w, https://centerofci.org/wp-content/uploads/2023/03/crm-table-300x148.png 300w, https://centerofci.org/wp-content/uploads/2023/03/crm-table-768x378.png 768w, https://centerofci.org/wp-content/uploads/2023/03/crm-table-1536x755.png 1536w, https://centerofci.org/wp-content/uploads/2023/03/crm-table-2048x1007.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -106,7 +106,7 @@
 		<pubDate>Tue, 18 Oct 2022 00:28:12 +0000</pubDate>
 				<category><![CDATA[Public Health]]></category>
 		<category><![CDATA[Tools & Data]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=publications&#038;p=3075</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=publications#038;p=3075</guid>
 
 					<description><![CDATA[In an effort to capture lessons from Chelsea’s pandemic response efforts against COVID-19, CCI researchers have built an empirical Bayes agents-based policy simulator for the Chelsea Project. This tool models demographics, mobility, transmission, infection, and disease dynamics using a large number of datasets such as anonymized aggregated phone location data for Massachusetts, in addition to census [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -123,7 +123,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 11:53:35 +0000</pubDate>
 				<category><![CDATA[Tools & Data]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=2564</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=projects#038;p=2564</guid>
 
 					<description><![CDATA[What is DataCurator? DataCurator is a tool to map and manage complex problems.&#160; Data is messy, and the more types of data you need the messier it gets. DataCurator helps you to understand complex problems by breaking down large, disparate, and overlapping sets of information into modular component parts. Navigating a complex system requires gathering [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -220,7 +220,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Mon, 03 Oct 2022 12:56:49 +0000</pubDate>
 				<category><![CDATA[Tools & Data]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=project&#038;p=2351</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=project#038;p=2351</guid>
 
 					<description><![CDATA[Effective interventions to complex problems are often buried within data. Mathesar simplifies the process of collaboratively maintaining complex data sets and gleaning useful information from them. Potential use cases Mathesar can be used in any workflow that involves data, so there are thousands of possible use cases. Check out a live demo of Mathesar here. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -319,7 +319,7 @@
 
 
 
-<figure class="wp-block-image alignright size-medium is-resized is-style-default"><img decoding="async" loading="lazy" src="https://centerofci.org/cms/wp-content/uploads/2022/06/Yurii-scaled-1-200x300.jpg" alt="" class="wp-image-1538" width="100" height="150" srcset="https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-200x300.jpg 200w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-683x1024.jpg 683w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-768x1152.jpg 768w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-1024x1536.jpg 1024w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-1366x2048.jpg 1366w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1.jpg 1707w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+<figure class="wp-block-image alignright size-medium is-resized is-style-default"><img loading="lazy" decoding="async" src="https://centerofci.org/cms/wp-content/uploads/2022/06/Yurii-scaled-1-200x300.jpg" alt="" class="wp-image-1538" width="100" height="150" srcset="https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-200x300.jpg 200w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-683x1024.jpg 683w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-768x1152.jpg 768w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-1024x1536.jpg 1024w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1-1366x2048.jpg 1366w, https://centerofci.org/wp-content/uploads/2022/06/Yurii-scaled-1.jpg 1707w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
 
 
 
@@ -335,7 +335,7 @@
 
 
 
-<figure class="wp-block-image alignright size-medium is-resized"><img decoding="async" loading="lazy" src="https://centerofci.org/cms/wp-content/uploads/2022/06/Jinxiao-300x273.jpg" alt="" class="wp-image-1517" width="150" height="137" srcset="https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-300x273.jpg 300w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-1024x931.jpg 1024w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-768x698.jpg 768w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-1536x1397.jpg 1536w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao.jpg 1642w" sizes="(max-width: 150px) 100vw, 150px" /></figure>
+<figure class="wp-block-image alignright size-medium is-resized"><img loading="lazy" decoding="async" src="https://centerofci.org/cms/wp-content/uploads/2022/06/Jinxiao-300x273.jpg" alt="" class="wp-image-1517" width="150" height="137" srcset="https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-300x273.jpg 300w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-1024x931.jpg 1024w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-768x698.jpg 768w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao-1536x1397.jpg 1536w, https://centerofci.org/wp-content/uploads/2022/06/Jinxiao.jpg 1642w" sizes="(max-width: 150px) 100vw, 150px" /></figure>
 
 
 
@@ -351,7 +351,7 @@
 
 
 
-<figure class="wp-block-image alignright size-medium is-resized"><img decoding="async" loading="lazy" src="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-300x300.jpg?lossy=1&strip=1&webp=1" alt="" class="wp-image-3349" width="150" height="150" srcset="https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-300x300.jpg?lossy=1&amp;strip=1&amp;webp=1 300w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-1024x1024.jpg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-150x150.jpg?lossy=1&amp;strip=1&amp;webp=1 150w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-768x768.jpg?lossy=1&amp;strip=1&amp;webp=1 768w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-1536x1536.jpg?lossy=1&amp;strip=1&amp;webp=1 1536w, https://b2888886.smushcdn.com/2888886/wp-content/uploads/2022/06/Anish-rotated-1-1-2048x2048.jpg?lossy=1&amp;strip=1&amp;webp=1 2048w" sizes="(max-width: 150px) 100vw, 150px" /></figure>
+<figure class="wp-block-image alignright size-medium is-resized"><img loading="lazy" decoding="async" src="https://centerofci.org/wp-content/uploads/2022/06/Anish-rotated-1-1-300x300.jpg" alt="" class="wp-image-3349" width="150" height="150" srcset="https://centerofci.org/wp-content/uploads/2022/06/Anish-rotated-1-1-300x300.jpg 300w, https://centerofci.org/wp-content/uploads/2022/06/Anish-rotated-1-1-1024x1024.jpg 1024w, https://centerofci.org/wp-content/uploads/2022/06/Anish-rotated-1-1-150x150.jpg 150w, https://centerofci.org/wp-content/uploads/2022/06/Anish-rotated-1-1-768x768.jpg 768w, https://centerofci.org/wp-content/uploads/2022/06/Anish-rotated-1-1-1536x1536.jpg 1536w, https://centerofci.org/wp-content/uploads/2022/06/Anish-rotated-1-1-2048x2048.jpg 2048w" sizes="(max-width: 150px) 100vw, 150px" /></figure>
 
 
 
@@ -392,7 +392,7 @@
 
 					<description><![CDATA[Mathesar, an open source database project from the Center of Complex Interventions (CCI), has been selected as a mentoring organization for Google Summer of Code (GSoC) 2022. The Mathesar team is seeking contributors with Python, JavaScript, or PostgreSQL skills to work on the project. Contributors will solve interesting technical challenges, acquire new skills, and learn [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image alignright size-full is-resized"><img decoding="async" loading="lazy" src="https://centerofci.org/cms/wp-content/uploads/2022/03/mid-size-2.png" alt="" class="wp-image-891" width="759" height="380" srcset="https://centerofci.org/wp-content/uploads/2022/03/mid-size-2.png 1012w, https://centerofci.org/wp-content/uploads/2022/03/mid-size-2-300x150.png 300w, https://centerofci.org/wp-content/uploads/2022/03/mid-size-2-768x384.png 768w" sizes="(max-width: 759px) 100vw, 759px" /></figure>
+<figure class="wp-block-image alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://centerofci.org/cms/wp-content/uploads/2022/03/mid-size-2.png" alt="" class="wp-image-891" width="759" height="380" srcset="https://centerofci.org/wp-content/uploads/2022/03/mid-size-2.png 1012w, https://centerofci.org/wp-content/uploads/2022/03/mid-size-2-300x150.png 300w, https://centerofci.org/wp-content/uploads/2022/03/mid-size-2-768x384.png 768w" sizes="(max-width: 759px) 100vw, 759px" /></figure>
 
 
 

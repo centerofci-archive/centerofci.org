@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -28,28 +28,12 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Ariel Ekblaw</title>
-		<link>https://centerofci.org/team/ariel-ekblaw/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 12:42:20 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2598</guid>
-
-					<description><![CDATA[Ariel Ekblaw brings an interdisciplinary approach to her work at CCI, bridging &#8220;extreme environments&#8221; between Earth and Space. She advises the climate change mitigation, adaptation, and geoengineering research areas for CCI. Outside CCI, she is the founder and Director of the MIT Space Exploration Initiative and leads a space architecture research portfolio. Her work aims [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Ariel Ekblaw brings an interdisciplinary approach to her work at CCI, bridging &#8220;extreme environments&#8221; between Earth and Space. She advises the climate change mitigation, adaptation, and geoengineering research areas for CCI. Outside CCI, she is the founder and Director of the MIT Space Exploration Initiative and leads a space architecture research portfolio. Her work aims to create new technologies and explore systems-level impact to empower humans in resource-constrained environments.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Jose Arocha</title>
 		<link>https://centerofci.org/team/jose-arocha/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 06:30:07 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=person&#038;p=2372</guid>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=person#038;p=2372</guid>
 
 					<description><![CDATA[José Gustavo Arocha is a national security expert, specialized in analyzing civil-military relations, violent conflicts, complex systems, and counter-transnational organized crime. He is a retired Lieutenant Colonel from the Venezuelan Army, having fled his home country in 2015 after confronting the totalitarian regime. Living in the United States, Mr. Arocha has testified multiple times before [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -66,6 +50,22 @@
 
 
 <p>Mr. Arocha received his Master’s in Public Administration from Harvard University in 2018. He is an Edward S. Mason Fellow and a postgraduate degree in Organizational Development at Universidad Catolica Andres Bello (UCAB) in Venezuela in 2003.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ariel Ekblaw</title>
+		<link>https://centerofci.org/team/ariel-ekblaw/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 12:42:20 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2598</guid>
+
+					<description><![CDATA[Ariel Ekblaw brings an interdisciplinary approach to her work at CCI, bridging &#8220;extreme environments&#8221; between Earth and Space. She advises the climate change mitigation, adaptation, and geoengineering research areas for CCI. Outside CCI, she is the founder and Director of the MIT Space Exploration Initiative and leads a space architecture research portfolio. Her work aims [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ariel Ekblaw brings an interdisciplinary approach to her work at CCI, bridging &#8220;extreme environments&#8221; between Earth and Space. She advises the climate change mitigation, adaptation, and geoengineering research areas for CCI. Outside CCI, she is the founder and Director of the MIT Space Exploration Initiative and leads a space architecture research portfolio. Her work aims to create new technologies and explore systems-level impact to empower humans in resource-constrained environments.</p>
 ]]></content:encoded>
 					
 		

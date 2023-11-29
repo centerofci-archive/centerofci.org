@@ -12,13 +12,13 @@
 	<atom:link href="https://centerofci.org/team/feed/" rel="self" type="application/rss+xml" />
 	<link>https://centerofci.org/</link>
 	<description>Helping Communities Translate Science Into Action</description>
-	<lastBuildDate>Wed, 02 Nov 2022 11:52:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Feb 2023 11:26:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -28,132 +28,12 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Kriti Godey</title>
-		<link>https://centerofci.org/team/kriti-godey/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Mon, 03 Oct 2022 12:46:35 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=person&#038;p=2348</guid>
-
-					<description><![CDATA[Kriti Godey manages technology at CCI. She spends the bulk of her time leading the Mathesar project, an open source product to help users of all skill levels work with data. Most recently, she was Director of Engineering at Creative Commons (CC), where she built open source tools to make CC licenses easier to work [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Kriti Godey manages technology at CCI. She spends the bulk of her time leading the Mathesar project, an open source product to help users of all skill levels work with data. Most recently, she was Director of Engineering at Creative Commons (CC), where she built open source tools to make CC licenses easier to work with. Prior to that, she focused on leading happy and productive distributed engineering teams at startups, and has enjoyed architecting and building both consumer-facing and enterprise software.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ondrej Holiencin</title>
-		<link>https://centerofci.org/team/ondrej-holiencin/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 13:44:53 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2568</guid>
-
-					<description><![CDATA[Ondrej is an experienced IT architect, agile practitioner, certified scrum master, and consultant with a background in computer science and political economy. He participated in many international multimillion-dollar projects in finance, insurance, and banking. Ondrej works with the CCI operations team to set short-term and long-term goals for the organization and assists with project engagement [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Ondrej is an experienced IT architect, agile practitioner, certified scrum master, and consultant with a background in computer science and political economy. He participated in many international multimillion-dollar projects in finance, insurance, and banking.</p>
-
-
-
-<p>Ondrej works with the CCI operations team to set short-term and long-term goals for the organization and assists with project engagement and the grant application process.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Adam Mullinax</title>
-		<link>https://centerofci.org/team/adam-mullinax/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 13:02:19 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2602</guid>
-
-					<description><![CDATA[Adam Mullinax is the Chief Financial Officer of CCI where he manages the budgets and financials of the organization, while also working closely with the other team members to help with key organizational and strategic initiatives. Separately, Adam is an investor and partner at Neoteny, an early-stage venture capital firm with a broad focus across [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Adam Mullinax is the Chief Financial Officer of CCI where he manages the budgets and financials of the organization, while also working closely with the other team members to help with key organizational and strategic initiatives. Separately, Adam is an investor and partner at Neoteny, an early-stage venture capital firm with a broad focus across technology. Adam has a BS in Finance from the New York University, with a minor in history. While not working, Adam enjoys cooking, playing golf and spending time with his family and cats.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Kate McCall-Kiley</title>
-		<link>https://centerofci.org/team/kate-mccall-kiley/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 13:03:42 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2603</guid>
-
-					<description><![CDATA[Kate McCall-Kiley is a complex system enthusiast helping to execute on special projects at CCI. Outside of that, she is a co-founder and director at xD, an experimental data lab within the US federal government. She also is a co-founder of the Space Governance Collaborative at MIT Media Lab, prototyping governance futures. Her work aims [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Kate McCall-Kiley is a complex system enthusiast helping to execute on special projects at CCI. Outside of that, she is a co-founder and director at xD, an experimental data lab within the US federal government. She also is a co-founder of the Space Governance Collaborative at MIT Media Lab, prototyping governance futures. Her work aims to create new environments and mechanisms for behavior change while experimenting with different ways to productively challenge convention. Previously, Kate served the White House as a Presidential Innovation Fellow. She holds a Master’s in Design Leadership from Maryland Institute College of Art and an MBA from Johns Hopkins University; she also studied philosophy and psychology at The College of Wooster. In aspirational parallel lives, Kate would love to be a philosopher/ethicist, DJ, and participatory graffiti artist.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ariel Ekblaw</title>
-		<link>https://centerofci.org/team/ariel-ekblaw/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 12:42:20 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2598</guid>
-
-					<description><![CDATA[Ariel Ekblaw brings an interdisciplinary approach to her work at CCI, bridging &#8220;extreme environments&#8221; between Earth and Space. She advises the climate change mitigation, adaptation, and geoengineering research areas for CCI. Outside CCI, she is the founder and Director of the MIT Space Exploration Initiative and leads a space architecture research portfolio. Her work aims [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Ariel Ekblaw brings an interdisciplinary approach to her work at CCI, bridging &#8220;extreme environments&#8221; between Earth and Space. She advises the climate change mitigation, adaptation, and geoengineering research areas for CCI. Outside CCI, she is the founder and Director of the MIT Space Exploration Initiative and leads a space architecture research portfolio. Her work aims to create new technologies and explore systems-level impact to empower humans in resource-constrained environments.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Rajat Vijay</title>
-		<link>https://centerofci.org/team/rajat-vijay/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Mon, 03 Oct 2022 06:27:51 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=person&#038;p=2296</guid>
-
-					<description><![CDATA[Rajat Vijay is a software engineer with a major inclination towards the frontend &#38; JavaScript ecosystem. He enjoys simplifying user experiences by building accessible user interfaces. He has previously worked on Voice AI platforms &#38; large scale workflow automation tools. In his free time he enjoys traveling and exploring products that track his body vitals.]]></description>
-										<content:encoded><![CDATA[
-<p>Rajat Vijay is a software engineer with a major inclination towards the frontend &amp; JavaScript ecosystem. He enjoys simplifying user experiences by building accessible user interfaces. He has previously worked on Voice AI platforms &amp; large scale workflow automation tools. In his free time he enjoys traveling and exploring products that track his body vitals.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Peg Nottingham</title>
-		<link>https://centerofci.org/team/peg-nottingham/</link>
-		
-		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 13:46:26 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2569</guid>
-
-					<description><![CDATA[Margaret (Peg) Nottingham has been working in the online development world for over 25 years and has spent the past 15 focusing on User Interface (UI) and User Experience (UX) development and best practices.&#160; Peg has been an artist and a tech early adopter since childhood; she won her first drawing contest in kindergarten and [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Margaret (Peg) Nottingham has been working in the online development world for over 25 years and has spent the past 15 focusing on User Interface (UI) and User Experience (UX) development and best practices.&nbsp;</p>
-
-
-
-<p>Peg has been an artist and a tech early adopter since childhood; she won her first drawing contest in kindergarten and learned how to program on an Apple //e in second grade. Working so closely with art and computers throughout her life, Peg believes that beauty isn’t just visual, it’s functional as well; you can have great beauty without technology, but you cannot have great technology if it doesn’t function beautifully.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Joi Ito</title>
 		<link>https://centerofci.org/team/joi-ito/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 11:37:53 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2592</guid>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2592</guid>
 
 					<description><![CDATA[Joi Ito is an advisor to the CCI team and helps with several ongoing research projects. He is currently a partner at the venture capital firm, Neoteny, a guest researcher at Keio University&#8217;s Cyber Civilization Research Center and founder and board member of Digital Garage in Tokyo. He has had numerous roles in the past [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -176,32 +56,160 @@
 		
 			</item>
 		<item>
-		<title>Isha Datar</title>
-		<link>https://centerofci.org/team/isha-datar/</link>
+		<title>Ondrej Holiencin</title>
+		<link>https://centerofci.org/team/ondrej-holiencin/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 11:33:30 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=team&#038;p=2589</guid>
+		<pubDate>Tue, 11 Oct 2022 13:44:53 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2568</guid>
 
-					<description><![CDATA[Isha is executive director of New Harvest, a nonprofit research institute that funds open, public cultured meat research. She has been pioneering cellular agriculture since 2009, driven by a passion to see transformative technology create a better world. In 2010, Isha published a review paper in the scientific journal Innovative Food Science and Emerging Technologies, [&#8230;]]]></description>
+					<description><![CDATA[Ondrej is an experienced IT architect, agile practitioner, certified scrum master, and consultant with a background in computer science and political economy. He participated in many international multimillion-dollar projects in finance, insurance, and banking. Ondrej works with the CCI operations team to set short-term and long-term goals for the organization and assists with project engagement [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Isha is executive director of New Harvest, a nonprofit research institute that funds open, public cultured meat research. She has been pioneering cellular agriculture since 2009, driven by a passion to see transformative technology create a better world. In 2010, Isha published a review paper in the scientific journal Innovative Food Science and Emerging Technologies, among the first handful of papers to ever discuss cultured meat in academic literature. After co-founding Muufri (now Perfect Day Foods) and Clara Foods in 2014, she transferred her founding equity to New Harvest and used it to establish an endowment for cell ag research. In 2015, Isha coined the term &#8220;cellular agriculture&#8221; — officially creating a category for agriculture products produced from cell cultures rather than whole plants or animals. Isha is a Shuttleworth Foundation Fellow and Director’s Fellow at the MIT Media Lab. Isha holds a BSc. in cell and molecular biology from the University of Alberta and a master&#8217;s in biotechnology from the University of Toronto.</p>
+<p>Ondrej is an experienced IT architect, agile practitioner, certified scrum master, and consultant with a background in computer science and political economy. He participated in many international multimillion-dollar projects in finance, insurance, and banking.</p>
+
+
+
+<p>Ondrej works with the CCI operations team to set short-term and long-term goals for the organization and assists with project engagement and the grant application process.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Daniel Begemann</title>
-		<link>https://centerofci.org/team/daniel-begemann/</link>
+		<title>Cristina Alonso</title>
+		<link>https://centerofci.org/team/cristina-alonso/</link>
 		
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
-		<pubDate>Wed, 02 Nov 2022 11:52:12 +0000</pubDate>
-				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=3700</guid>
+		<pubDate>Tue, 04 Oct 2022 06:27:18 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=person#038;p=2371</guid>
 
-					<description><![CDATA[Daniel Begemann is a former CCI volunteer and policy simulator collaborator who is now working on CCI’s policy simulator projects full-time. He has an MSc in Data Science from the University of Liverpool, where his dissertation focused on epilepsy detection using EEG data. Prior to this, Dan worked in nonprofit administration in Washington, DC, as [&#8230;]]]></description>
+					<description><![CDATA[Cristina Alonso is a Doctor of Public Health who has ample experience implementing systems change in complex political settings. Her doctoral dissertation, &#8220;The Impact and Social Response to COVID-19 in Chelsea, MA&#8221; won the national award for Outstanding Dissertation of 2021 by the DrPH coalition. She was co-founder of the Academic Public Health Corps which deployed over [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Daniel Begemann is a former CCI volunteer and policy simulator collaborator who is now working on CCI’s policy simulator projects full-time. He has an MSc in Data Science from the University of Liverpool, where his dissertation focused on epilepsy detection using EEG data. Prior to this, Dan worked in nonprofit administration in Washington, DC, as well as at a public school. Dan is currently living in England. In his spare time, he enjoys volunteering, reading and writing, and playing sports.</p>
+<p>Cristina Alonso is a Doctor of Public Health who has ample experience implementing systems change in complex political settings. Her doctoral dissertation, &#8220;<a href="https://centerofci.org/publications/the-impact-and-social-response-of-covid-19-in-chelsea-massachusetts/" data-type="publications" data-id="2407">The Impact and Social Response to COVID-19 in Chelsea, MA</a>&#8221; won the national award for Outstanding Dissertation of 2021 by the DrPH coalition. She was co-founder of the Academic Public Health Corps which deployed over 1000 public health students and professionals to support local public health efforts during COVID. She then became a leader in coordinating Chelsea&#8217;s multi/disciplinary COVID response. Prior to working in COVID, Cristina worked for 18 years in Latin America improving the quality of care in maternal health. She founded several full-scope birth centers in Mexico and worked with the Mexican Ministry of Health to integrate midwifery into the health care system. Her book, &#8220;Open a midwifery center&#8221;, has been published in three languages and is considered the seminal textbook for opening birth centers in low-resource settings. Cristina continues to work in maternal health improvement consulting in Afghanistan and the USA.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ariel Ekblaw</title>
+		<link>https://centerofci.org/team/ariel-ekblaw/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 12:42:20 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2598</guid>
+
+					<description><![CDATA[Ariel Ekblaw brings an interdisciplinary approach to her work at CCI, bridging &#8220;extreme environments&#8221; between Earth and Space. She advises the climate change mitigation, adaptation, and geoengineering research areas for CCI. Outside CCI, she is the founder and Director of the MIT Space Exploration Initiative and leads a space architecture research portfolio. Her work aims [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ariel Ekblaw brings an interdisciplinary approach to her work at CCI, bridging &#8220;extreme environments&#8221; between Earth and Space. She advises the climate change mitigation, adaptation, and geoengineering research areas for CCI. Outside CCI, she is the founder and Director of the MIT Space Exploration Initiative and leads a space architecture research portfolio. Her work aims to create new technologies and explore systems-level impact to empower humans in resource-constrained environments.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kriti Godey</title>
+		<link>https://centerofci.org/team/kriti-godey/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 12:46:35 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=person#038;p=2348</guid>
+
+					<description><![CDATA[Kriti Godey manages technology at CCI. She spends the bulk of her time leading the Mathesar project, an open source product to help users of all skill levels work with data. Most recently, she was Director of Engineering at Creative Commons (CC), where she built open source tools to make CC licenses easier to work [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Kriti Godey manages technology at CCI. She spends the bulk of her time leading the Mathesar project, an open source product to help users of all skill levels work with data. Most recently, she was Director of Engineering at Creative Commons (CC), where she built open source tools to make CC licenses easier to work with. Prior to that, she focused on leading happy and productive distributed engineering teams at startups, and has enjoyed architecting and building both consumer-facing and enterprise software.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Colin Raney</title>
+		<link>https://centerofci.org/team/colin-raney/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 11:35:00 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2590</guid>
+
+					<description><![CDATA[Colin Raney is the Chief Marketing Officer of PillPack and Director of Marketing at Amazon Pharmacy. Prior to PillPack, Colin served as the CMO of 3D-printing company Formlabs and as Managing Director at IDEO, the world-renowned design and innovation firm. He is an advisor to multiple startups, has written for The Harvard Business Review and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Colin Raney is the Chief Marketing Officer of PillPack and Director of Marketing at Amazon Pharmacy. Prior to PillPack, Colin served as the CMO of 3D-printing company Formlabs and as Managing Director at IDEO, the world-renowned design and innovation firm. He is an advisor to multiple startups, has written for The Harvard Business Review and Fast Company.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Samantha Bates</title>
+		<link>https://centerofci.org/team/samantha-bates/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 13:00:45 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2601</guid>
+
+					<description><![CDATA[Samantha Bates is the Executive Director of CCI where she sets the strategic vision for the organization, runs day-to-day operations, and works closely with the CCI research team on various research projects. Before CCI, Sam was the Director of Administration at YarnLabs Inc, a fiscal sponsor for non-profits. She also previously managed research at MIT [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Samantha Bates is the Executive Director of CCI where she sets the strategic vision for the organization, runs day-to-day operations, and works closely with the CCI research team on various research projects. Before CCI, Sam was the Director of Administration at YarnLabs Inc, a fiscal sponsor for non-profits. She also previously managed research at MIT and worked as a researcher at Harvard Law School and the Berkman Klein Center for Internet &amp; Society. Before entering the academic and non-profit space, Sam worked at Google. She has a master&#8217;s degree in Modern European History from the University of Cambridge and a B.A. in History from Grinnell College. When not running CCI, Sam can usually be found biking up New England’s finest gravel mountain roads.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sean Colsen</title>
+		<link>https://centerofci.org/team/sean-colsen/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 12:54:44 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=person#038;p=2350</guid>
+
+					<description><![CDATA[Sean is an engineer passionate about open source software, user experience, data, and interesting problems. He brings a background in tech, non-profits, CRMs, and community organizing to his work on our Mathesar project. In his free time he enjoys mountain biking, and carpentry.]]></description>
+										<content:encoded><![CDATA[
+<p>Sean is an engineer passionate about open source software, user experience, data, and interesting problems. He brings a background in tech, non-profits, CRMs, and community organizing to his work on our Mathesar project. In his free time he enjoys mountain biking, and carpentry.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Michelle Kydd Lee</title>
+		<link>https://centerofci.org/team/michelle-kydd-lee/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 11:36:08 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=team#038;p=2591</guid>
+
+					<description><![CDATA[Michelle Kydd Lee is a Board Member and Chief Innovation Officer at Creative Artists Agency, where she provides strategic leadership that builds upon the agency&#8217;s renowned culture of collaboration and client service, and crafts state-of-the-art approaches to empower and develop employees. Kydd Lee has been a driving force for CAA&#8217;s diversity and inclusion initiatives, and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Michelle Kydd Lee is a Board Member and Chief Innovation Officer at Creative Artists Agency, where she provides strategic leadership that builds upon the agency&#8217;s renowned culture of collaboration and client service, and crafts state-of-the-art approaches to empower and develop employees. Kydd Lee has been a driving force for CAA&#8217;s diversity and inclusion initiatives, and is a founding member of TIME&#8217;S UP. In 1995, she founded the CAA Foundation to create positive social change. Kydd Lee, who directed the CAA Foundation until 2015, serves as a consultant to clients, executives, and corporations on their philanthropic and social impact initiatives.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Jose Arocha</title>
+		<link>https://centerofci.org/team/jose-arocha/</link>
+		
+		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 06:30:07 +0000</pubDate>
+				<guid isPermaLink="false">https://centerofci.org/?post_type=person#038;p=2372</guid>
+
+					<description><![CDATA[José Gustavo Arocha is a national security expert, specialized in analyzing civil-military relations, violent conflicts, complex systems, and counter-transnational organized crime. He is a retired Lieutenant Colonel from the Venezuelan Army, having fled his home country in 2015 after confronting the totalitarian regime. Living in the United States, Mr. Arocha has testified multiple times before [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>José Gustavo Arocha is a national security expert, specialized in analyzing civil-military relations, violent conflicts, complex systems, and counter-transnational organized crime. He is a retired Lieutenant Colonel from the Venezuelan Army, having fled his home country in 2015 after confronting the totalitarian regime. Living in the United States, Mr. Arocha has testified multiple times before the Organization of American States. He has briefed the Defense Intelligence Agency and U.S. State Department about the ongoing crisis in Venezuela.</p>
+
+
+
+<p>Mr. Arocha has published articles in The Hill, Harvard Kennedy School Latin America Policy Journal, and the American Foreign Policy Council.</p>
+
+
+
+<p>He graduated with full honors in 1990 from Venezuela’s Military Academy, being the highest scoring officer in his promotion group when he ascended to captain in 1998. Following his forced resignation from the Venezuelan Army in 2009, Mr. Arocha founded a political consultancy, GeoFenix, that provided strategic advice and logistical services to high-profile Venezuelan dissidents and regime critics. In 2014, he was detained by Venezuelan regime security services under false treason charges. He was imprisoned for eight months without trial, kept in solitary confinement, and tortured in an underground prison known as “La Tumba.” Since escaping captivity in March 2015, he has resided in the United States.</p>
+
+
+
+<p>Mr. Arocha received his Master’s in Public Administration from Harvard University in 2018. He is an Edward S. Mason Fellow and a postgraduate degree in Organizational Development at Universidad Catolica Andres Bello (UCAB) in Venezuela in 2003.</p>
 ]]></content:encoded>
 					
 		

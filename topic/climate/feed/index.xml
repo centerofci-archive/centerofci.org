@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://centerofci.org/wp-content/uploads/2022/10/cropped-CCI-32x32.png</url>
@@ -121,7 +121,7 @@
 		<dc:creator><![CDATA[Ondrej Holiencin]]></dc:creator>
 		<pubDate>Mon, 17 Oct 2022 21:47:59 +0000</pubDate>
 				<category><![CDATA[Climate]]></category>
-		<guid isPermaLink="false">https://centerofci.tempurl.host/?post_type=projects&#038;p=3051</guid>
+		<guid isPermaLink="false">https://centerofci.org/?post_type=projects#038;p=3051</guid>
 
 					<description><![CDATA[The Climate Map started as an internal team discovery tool to shape our own understanding of the climate change industry and where strategic opportunities exist to participate in or leverage complex interventions. Entries in the climate map are visualized in a network graph, off a relational database, showing the connections and interdependencies for climate projects [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -129,7 +129,7 @@
 
 
 
-<figure class="wp-block-image alignright size-large is-resized"><img decoding="async" fetchpriority="high" src="https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1024x512.png" alt="" class="wp-image-293" width="468" height="235" srcset="https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1024x512.png 1024w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-300x150.png 300w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-768x384.png 768w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1536x768.png 1536w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7.png 1745w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption class="wp-element-caption"><em>The network view of the tool shows how ongoing climate research is connected by the actors and funders involved.</em></figcaption></figure>
+<figure class="wp-block-image alignright size-large is-resized"><img fetchpriority="high" decoding="async" src="https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1024x512.png" alt="" class="wp-image-293" width="468" height="235" srcset="https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1024x512.png 1024w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-300x150.png 300w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-768x384.png 768w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7-1536x768.png 1536w, https://centerofci.org/wp-content/uploads/2021/07/2021-06-02-7.png 1745w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption class="wp-element-caption"><em>The network view of the tool shows how ongoing climate research is connected by the actors and funders involved.</em></figcaption></figure>
 
 
 
